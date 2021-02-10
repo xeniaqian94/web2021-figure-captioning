@@ -1,6 +1,6 @@
 # web2021-figure-captioning
 
-Data and supplementary materials for the paper Generating Accurate Caption Units For Figure Captioning.
+Data and supplementary materials for the Web Conference 2021 paper "Generating Accurate Caption Units For Figure Captioning".
 
 ### Table of Contents
 
