@@ -1,0 +1,20 @@
+1648 References (all) for this figure in the batch:  ['The chart reports accuracy of different algorithms .']
+1648 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2473 Image name:  bar_val_hard_00006630.png
+2473 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+2473 Add input: [None] template_IDs [11]
+2473 References (all) for this figure in the batch:  ['The chart reports accuracy of different algorithms .']
+2473 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2909 Image name:  bar_val_hard_00006630.png
+2909 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+2909 Add input: [None] template_IDs [11]
+2909 References (all) for this figure in the batch:  ['The chart reports accuracy of different algorithms .']
+2909 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2990 Image name:  bar_val_hard_00006630.png
+2990 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+2990 Add input: [None] template_IDs [11]
+2990 References (all) for this figure in the batch:  ['The chart reports accuracy of different algorithms .']
+2990 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'

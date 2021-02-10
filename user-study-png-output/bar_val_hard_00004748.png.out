@@ -1,0 +1,60 @@
+1652 References (all) for this figure in the batch:  ['The chart is about sales statistics for items in each retail location .']
+1652 Hypothesis for this figure in the batch:  b'The chart is about sales statistics for items in each retail location .'
+--
+2356 Image name:  bar_val_hard_00004748.png
+2356 [Groundtruth] [15] prediction tensor([15], device='cuda:0') True
+2356 Add input: [None] template_IDs [11]
+2356 References (all) for this figure in the batch:  ['The chart is about sales statistics for items in each retail location .']
+2356 Hypothesis for this figure in the batch:  b'This chart reports the accuracy of algorithms across different benchmarks .'
+--
+2308 Image name:  bar_val_hard_00004748.png
+2308 [Groundtruth] [15] prediction tensor([15], device='cuda:0') True
+2308 Add input: [None] template_IDs [11]
+2308 References (all) for this figure in the batch:  ['The chart is about sales statistics for items in each retail location .']
+2308 Hypothesis for this figure in the batch:  b'The chart is about sales statistics for items in each retail location .'
+--
+2981 Image name:  bar_val_hard_00004748.png
+2981 [Groundtruth] [15] prediction tensor([15], device='cuda:0') True
+2981 Add input: [None] template_IDs [11]
+2981 References (all) for this figure in the batch:  ['The chart is about sales statistics for items in each retail location .']
+2981 Hypothesis for this figure in the batch:  b'The chart is about sales statistics for items in each retail location .'
+1327 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1327 This hypothesis matching one of the references?  1
+--
+1168 Image name:  bar_val_hard_00004748.png
+1168 Add input: [None] template_IDs [0]
+1168 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1168 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1168 This hypothesis matching one of the references?  1
+--
+1005 Image name:  bar_val_hard_00004748.png
+1005 Add input: [None] template_IDs [0]
+1005 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1005 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1005 This hypothesis matching one of the references?  1
+--
+1709 Image name:  bar_val_hard_00004748.png
+1709 Add input: [None] template_IDs [0]
+1709 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1709 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1709 This hypothesis matching one of the references?  1
+100 References (all) for this figure in the batch:  ['outset is the label of the fifth group of bars from the left .']
+100 Hypothesis for this figure in the batch:  b'parent is the label of the fifth group of bars from the left .'
+--
+2806 Image name:  bar_val_hard_00004748.png
+2806 [Groundtruth] [20] prediction tensor([21], device='cuda:0') False
+2806 Add input: [[49]] template_IDs [4]
+2806 References (all) for this figure in the batch:  ['outset is the label of the fifth group of bars from the left .']
+2806 Hypothesis for this figure in the batch:  b'parent is the label of the fifth group of bars from the left .'
+--
+2218 Image name:  bar_val_hard_00004748.png
+2218 [Groundtruth] [20] prediction tensor([21], device='cuda:0') False
+2218 Add input: [[49]] template_IDs [4]
+2218 References (all) for this figure in the batch:  ['outset is the label of the fifth group of bars from the left .']
+2218 Hypothesis for this figure in the batch:  b'parent is the label of the fifth group of bars from the left .'
+--
+2972 Image name:  bar_val_hard_00004748.png
+2972 [Groundtruth] [20] prediction tensor([20], device='cuda:0') True
+2972 Add input: [[49]] template_IDs [4]
+2972 References (all) for this figure in the batch:  ['outset is the label of the fifth group of bars from the left .']
+2972 Hypothesis for this figure in the batch:  b'outset is the label of the fifth group of bars from the left .'

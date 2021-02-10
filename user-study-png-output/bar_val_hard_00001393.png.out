@@ -1,0 +1,150 @@
+34 References (all) for this figure in the batch:  ['the bars are horizontal .']
+34 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+42 Image name:  bar_val_hard_00001393.png
+42 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+42 Add input: [None] template_IDs [0]
+42 References (all) for this figure in the batch:  ['the bars are horizontal .']
+42 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+45 Image name:  bar_val_hard_00001393.png
+45 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+45 Add input: [None] template_IDs [0]
+45 References (all) for this figure in the batch:  ['the bars are horizontal .']
+45 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+28 Image name:  bar_val_hard_00001393.png
+28 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+28 Add input: [None] template_IDs [0]
+28 References (all) for this figure in the batch:  ['the bars are horizontal .']
+28 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+3 Image name:  bar_val_hard_00001393.png
+3 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+3 Add input: [None] template_IDs [0]
+3 References (all) for this figure in the batch:  ['the bars are horizontal .']
+3 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+48 Image name:  bar_val_hard_00001393.png
+48 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+48 Add input: [None] template_IDs [0]
+48 References (all) for this figure in the batch:  ['the bars are horizontal .']
+48 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+45 Image name:  bar_val_hard_00001393.png
+45 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+45 Add input: [None] template_IDs [0]
+45 References (all) for this figure in the batch:  ['the bars are horizontal .']
+45 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+24 Image name:  bar_val_hard_00001393.png
+24 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+24 Add input: [None] template_IDs [0]
+24 References (all) for this figure in the batch:  ['the bars are horizontal .']
+24 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+29 Image name:  bar_val_hard_00001393.png
+29 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+29 Add input: [None] template_IDs [0]
+29 References (all) for this figure in the batch:  ['the bars are horizontal .']
+29 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+33 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+33 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+43 Image name:  bar_val_hard_00001393.png
+43 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+43 Add input: [[38]] template_IDs [4]
+43 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+43 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+37 Image name:  bar_val_hard_00001393.png
+37 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+37 Add input: [[38]] template_IDs [4]
+37 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+37 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+14 Image name:  bar_val_hard_00001393.png
+14 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+14 Add input: [[38]] template_IDs [4]
+14 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+14 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+34 Image name:  bar_val_hard_00001393.png
+34 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+34 Add input: [[38]] template_IDs [4]
+34 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+34 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+43 Image name:  bar_val_hard_00001393.png
+43 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+43 Add input: [[38]] template_IDs [4]
+43 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+43 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+2 Image name:  bar_val_hard_00001393.png
+2 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+2 Add input: [[38]] template_IDs [4]
+2 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+2 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+23 Image name:  bar_val_hard_00001393.png
+23 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+23 Add input: [[38]] template_IDs [4]
+23 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+23 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+--
+48 Image name:  bar_val_hard_00001393.png
+48 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+48 Add input: [[38]] template_IDs [4]
+48 References (all) for this figure in the batch:  ['thief is the label of the first bar from the bottom .']
+48 Hypothesis for this figure in the batch:  b'thief is the label of the first bar from the bottom .'
+16 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+16 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+44 Image name:  bar_val_hard_00001393.png
+44 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+44 Add input: [[14, 5, 2]] template_IDs [9]
+44 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+44 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+21 Image name:  bar_val_hard_00001393.png
+21 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+21 Add input: [[14, 5, 2]] template_IDs [9]
+21 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+21 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+10 Image name:  bar_val_hard_00001393.png
+10 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+10 Add input: [[14, 5, 2]] template_IDs [9]
+10 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+10 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+29 Image name:  bar_val_hard_00001393.png
+29 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+29 Add input: [[14, 5, 2]] template_IDs [9]
+29 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+29 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+33 Image name:  bar_val_hard_00001393.png
+33 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+33 Add input: [[14, 5, 2]] template_IDs [9]
+33 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+33 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+24 Image name:  bar_val_hard_00001393.png
+24 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+24 Add input: [[14, 5, 2]] template_IDs [9]
+24 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+24 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+44 Image name:  bar_val_hard_00001393.png
+44 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+44 Add input: [[14, 5, 2]] template_IDs [9]
+44 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+44 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'
+--
+19 Image name:  bar_val_hard_00001393.png
+19 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+19 Add input: [[14, 5, 2]] template_IDs [9]
+19 References (all) for this figure in the batch:  ['the accuracy of the algorithm decay is larger than thief .']
+19 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm decay is larger than thief .'

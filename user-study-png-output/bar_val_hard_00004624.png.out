@@ -1,0 +1,40 @@
+1603 References (all) for this figure in the batch:  ['The chart lacks a title .']
+1603 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+586 Image name:  bar_val_hard_00004624.png
+586 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+586 Add input: [None] template_IDs [11]
+586 References (all) for this figure in the batch:  ['The chart lacks a title .']
+586 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2760 Image name:  bar_val_hard_00004624.png
+2760 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2760 Add input: [None] template_IDs [11]
+2760 References (all) for this figure in the batch:  ['The chart lacks a title .']
+2760 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2993 Image name:  bar_val_hard_00004624.png
+2993 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2993 Add input: [None] template_IDs [11]
+2993 References (all) for this figure in the batch:  ['The chart lacks a title .']
+2993 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+1974 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1974 This hypothesis matching one of the references?  1
+--
+617 Image name:  bar_val_hard_00004624.png
+617 Add input: [None] template_IDs [0]
+617 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+617 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+617 This hypothesis matching one of the references?  1
+--
+1437 Image name:  bar_val_hard_00004624.png
+1437 Add input: [None] template_IDs [0]
+1437 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1437 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1437 This hypothesis matching one of the references?  1
+--
+599 Image name:  bar_val_hard_00004624.png
+599 Add input: [None] template_IDs [0]
+599 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+599 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+599 This hypothesis matching one of the references?  1

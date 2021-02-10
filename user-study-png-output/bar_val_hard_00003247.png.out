@@ -1,0 +1,40 @@
+2948 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+2948 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+--
+1588 Image name:  bar_val_hard_00003247.png
+1588 [Groundtruth] [17] prediction tensor([17], device='cuda:0') True
+1588 Add input: [None] template_IDs [11]
+1588 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+1588 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+--
+2470 Image name:  bar_val_hard_00003247.png
+2470 [Groundtruth] [17] prediction tensor([17], device='cuda:0') True
+2470 Add input: [None] template_IDs [11]
+2470 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+2470 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+--
+2995 Image name:  bar_val_hard_00003247.png
+2995 [Groundtruth] [17] prediction tensor([17], device='cuda:0') True
+2995 Add input: [None] template_IDs [11]
+2995 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+2995 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+461 References (all) for this figure in the batch:  ['tub is the label of the second group of bars from the bottom .']
+461 Hypothesis for this figure in the batch:  b'tub is the label of the second group of bars from the bottom .'
+--
+1700 Image name:  bar_val_hard_00003247.png
+1700 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+1700 Add input: [[45]] template_IDs [4]
+1700 References (all) for this figure in the batch:  ['tub is the label of the second group of bars from the bottom .']
+1700 Hypothesis for this figure in the batch:  b'tub is the label of the second group of bars from the bottom .'
+--
+1770 Image name:  bar_val_hard_00003247.png
+1770 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+1770 Add input: [[45]] template_IDs [4]
+1770 References (all) for this figure in the batch:  ['tub is the label of the second group of bars from the bottom .']
+1770 Hypothesis for this figure in the batch:  b'tub is the label of the second group of bars from the bottom .'
+--
+579 Image name:  bar_val_hard_00003247.png
+579 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+579 Add input: [[45]] template_IDs [4]
+579 References (all) for this figure in the batch:  ['tub is the label of the second group of bars from the bottom .']
+579 Hypothesis for this figure in the batch:  b'tub is the label of the second group of bars from the bottom .'

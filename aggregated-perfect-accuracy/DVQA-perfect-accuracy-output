@@ -1,0 +1,58 @@
+... $ python processing.py
+DVQA/slurm-1291230.out
+DVQA/slurm-1291231.out
+DVQA/slurm-1291232.out
+DVQA/slurm-1291233.out
+DVQA/slurm-1291740.out
+DVQA/slurm-1291741.out
+
+For DVQA
+Current split is  val_loader
+# figures 4572
+Avg # of captions figures 2.3499562554680664
+# figures that has perfect match 0.9437882764654418
+Current split is  test_easy_eval_loader
+# figures 4447
+Avg # of captions figures 2.279964020688104
+# figures that has perfect match 0.9482797391499888
+Current split is  test_hard_eval_loader
+# figures 4605
+Avg # of captions figures 2.3735070575461457
+# figures that has perfect match 0.9389793702497286
+
+Random 10 examples of aggregated captions and match (0/1) -
+Note for DVQA, validation has image name of bar_train_0000XXXX.png, test has image name of bar_val_xxxx_0000XXXX.png
+
+
+bar_train_00002487.png {" ['drive is the label of the second group of bars from the bottom .']": 1, " ['the bars are horizontal .']": 1}
+bar_train_00001418.png {" ['clerk is the label of the first bar from the left .']": 1, " ['clerk , has the highest accuracy .']": 1, " ['4 is the accuracy of the algorithm charm .']": 1, " ['the bars are not horizontal .']": 1}
+bar_train_00006912.png {" ['dirt is the label of the second group of bars from the bottom .']": 1, " ['the bars are horizontal .']": 1, " ['five groups of bars are there .']": 1}
+bar_train_00004765.png {" ['coffee is the label of the third bar from the left .']": 1, " ['piece , has the highest accuracy .']": 1, " ['60 is the accuracy of the algorithm idea .']": 1, " ['the bars are not horizontal .']": 1, " ['nine bars are there .']": 1}
+bar_train_00007353.png {" ['animal is the label of the second group of bars from the bottom .']": 1, " ['the bars are horizontal .']": 1}
+bar_train_00003702.png {" ['church is the label of the second bar from the bottom .']": 1, " ['boy , has the largest value .']": 1, " ['the value of boy is larger than church .']": 1, " ['6 is the value of boy .']": 1, " ['the bars are horizontal .']": 1}
+bar_train_00005187.png {" ['bed is the label of the first bar from the left .']": 1, " ['bed , sold the most units .']": 1}
+bar_train_00005264.png {" ['phrase is the label of the second bar from the bottom .']": 1, " ['piano , has the highest accuracy .']": 1, " ['the accuracy of the algorithm piano is larger than phrase .']": 1, " ['4 is the accuracy of the algorithm piano .']": 1, " ['the bars are horizontal .']": 1}
+bar_train_00007636.png {" ['plane is the label of the first bar from the left .']": 1, " ['plane , has the largest value .']": 1, " ['the value of plane is larger than side .']": 1, " ['the bars are not horizontal .']": 1}
+bar_train_00006586.png {" ['track is the label of the first group of bars from the left .']": 1, " ['the bars are not horizontal .']": 1}
+
+bar_val_easy_00003242.png {" ['front is the label of the first group of bars from the bottom .']": 1}
+bar_val_easy_00004121.png {" ['joy is the label of the fifth bar from the bottom .']": 1, " ['leader , has the largest value .']": 0, " ['the value of vertex is smaller than joy .']": 1, " ['the bars are horizontal .']": 1}
+bar_val_easy_00008048.png {" ['song is the label of the second group of bars from the bottom .']": 1, " ['the bars are horizontal .']": 1}
+bar_val_easy_00007824.png {" ['corner is the label of the fourth bar from the left .']": 1, " ['corner , has the largest value .']": 1, " ['the value of state is smaller than share .']": 1}
+bar_val_easy_00006550.png {" ['fiber is the label of the fifth bar from the bottom .']": 1, " ['five bars are there .']": 1}
+bar_val_easy_00004870.png {" ['horror is the label of the first group of bars from the bottom .']": 1}
+bar_val_easy_00001194.png {" ['rhythm is the label of the seventh bar from the left .']": 1, " ['field , has the largest value .']": 1, " ['the value of strike is smaller than rhythm .']": 1, " ['8 is the value of rhythm .']": 1, " ['the bars are not horizontal .']": 1, " ['seven bars are there .']": 1}
+bar_val_easy_00004604.png {" ['row is the label of the first group of bars from the bottom .']": 1, " ['the bars are horizontal .']": 1}
+bar_val_easy_00005580.png {" ['corn is the label of the fourth group of bars from the left .']": 0, " ['the bars are not horizontal .']": 1}
+bar_val_easy_00007525.png {" ['series is the label of the fourth group of bars from the left .']": 1, " ['the bars are not horizontal .']": 1}
+
+bar_val_hard_00001633.png {" ['maker is the label of the fifth bar from the bottom .']": 1, " ['violin , sold the most units .']": 1, " ['the item cousin sold more units than horn .']": 1, " ['eight bars are there .']": 1}
+bar_val_hard_00003418.png {" ['fabric is the label of the third bar from the left .']": 1, " ['slide , has the highest accuracy .']": 1, " ['the accuracy of the algorithm glaze is smaller than fabric .']": 1, " ['the bars are not horizontal .']": 1}
+bar_val_hard_00005750.png {" ['flag is the label of the fourth group of bars from the bottom .']": 1}
+bar_val_hard_00000151.png {" ['secant is the label of the second bar from the left .']": 1, " ['tub , has the largest value .']": 1, " ['the value of secant is smaller than tub .']": 1, " ['20 is the value of secant .']": 1, " ['the bars are not horizontal .']": 1}
+bar_val_hard_00005318.png {" ['toilet is the label of the first bar from the bottom .']": 1, " ['scream , has the highest accuracy .']": 0, " ['the accuracy of the algorithm toilet is smaller than scream .']": 1}
+bar_val_hard_00005008.png {" ['pan is the label of the sixth group of bars from the bottom .']": 1}
+bar_val_hard_00007224.png {" ['entity is the label of the fourth group of bars from the left .']": 1}
+bar_val_hard_00007324.png {" ['sure is the label of the fourth bar from the bottom .']": 1, " ['nut , has the highest accuracy .']": 1, " ['the accuracy of the algorithm rubber is smaller than nut .']": 1, " ['the bars are horizontal .']": 1}
+bar_val_hard_00003331.png {" ['bid is the label of the third group of bars from the left .']": 1, " ['the bars are not horizontal .']": 1}
+bar_val_hard_00005263.png {" ['finish is the label of the first stack of bars from the left .']": 1, " ['the bars are not horizontal .']": 1}

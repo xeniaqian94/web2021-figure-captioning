@@ -1,0 +1,200 @@
+36 References (all) for this figure in the batch:  ['the bars are horizontal .']
+36 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+30 Image name:  bar_val_hard_00000756.png
+30 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+30 Add input: [None] template_IDs [0]
+30 References (all) for this figure in the batch:  ['the bars are horizontal .']
+30 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+47 Image name:  bar_val_hard_00000756.png
+47 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+47 Add input: [None] template_IDs [0]
+47 References (all) for this figure in the batch:  ['the bars are horizontal .']
+47 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+20 Image name:  bar_val_hard_00000756.png
+20 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+20 Add input: [None] template_IDs [0]
+20 References (all) for this figure in the batch:  ['the bars are horizontal .']
+20 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+2 Image name:  bar_val_hard_00000756.png
+2 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+2 Add input: [None] template_IDs [0]
+2 References (all) for this figure in the batch:  ['the bars are horizontal .']
+2 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+44 Image name:  bar_val_hard_00000756.png
+44 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+44 Add input: [None] template_IDs [0]
+44 References (all) for this figure in the batch:  ['the bars are horizontal .']
+44 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+26 Image name:  bar_val_hard_00000756.png
+26 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+26 Add input: [None] template_IDs [0]
+26 References (all) for this figure in the batch:  ['the bars are horizontal .']
+26 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+32 Image name:  bar_val_hard_00000756.png
+32 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+32 Add input: [None] template_IDs [0]
+32 References (all) for this figure in the batch:  ['the bars are horizontal .']
+32 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 50/50 [00:02<00:00, 24.47it/s]0 Image name:  bar_val_hard_00000756.png
+0 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+0 Add input: [None] template_IDs [0]
+0 References (all) for this figure in the batch:  ['the bars are horizontal .']
+0 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+34 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+34 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+34 Image name:  bar_val_hard_00000756.png
+34 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+34 Add input: [[45]] template_IDs [4]
+34 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+34 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+26 Image name:  bar_val_hard_00000756.png
+26 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+26 Add input: [[45]] template_IDs [4]
+26 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+26 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+47 Image name:  bar_val_hard_00000756.png
+47 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+47 Add input: [[45]] template_IDs [4]
+47 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+47 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+16 Image name:  bar_val_hard_00000756.png
+16 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+16 Add input: [[45]] template_IDs [4]
+16 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+16 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+37 Image name:  bar_val_hard_00000756.png
+37 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+37 Add input: [[45]] template_IDs [4]
+37 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+37 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+1 Image name:  bar_val_hard_00000756.png
+1 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+1 Add input: [[45]] template_IDs [4]
+1 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+1 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+48 Image name:  bar_val_hard_00000756.png
+48 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+48 Add input: [[45]] template_IDs [4]
+48 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+48 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+--
+32 Image name:  bar_val_hard_00000756.png
+32 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+32 Add input: [[45]] template_IDs [4]
+32 References (all) for this figure in the batch:  ['chaos is the label of the second bar from the bottom .']
+32 Hypothesis for this figure in the batch:  b'chaos is the label of the second bar from the bottom .'
+14 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+14 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+7 Image name:  bar_val_hard_00000756.png
+7 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+7 Add input: [[3]] template_IDs [6]
+7 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+7 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+1 Image name:  bar_val_hard_00000756.png
+1 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+1 Add input: [[3]] template_IDs [6]
+1 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+1 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+11 Image name:  bar_val_hard_00000756.png
+11 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+11 Add input: [[3]] template_IDs [6]
+11 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+11 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+1 Image name:  bar_val_hard_00000756.png
+1 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+1 Add input: [[3]] template_IDs [6]
+1 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+1 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+33 Image name:  bar_val_hard_00000756.png
+33 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+33 Add input: [[3]] template_IDs [6]
+33 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+33 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+15 Image name:  bar_val_hard_00000756.png
+15 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+15 Add input: [[3]] template_IDs [6]
+15 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+15 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+25 Image name:  bar_val_hard_00000756.png
+25 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+25 Add input: [[3]] template_IDs [6]
+25 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+25 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+--
+34 Image name:  bar_val_hard_00000756.png
+34 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+34 Add input: [[3]] template_IDs [6]
+34 References (all) for this figure in the batch:  ['soup , is the most preferred .']
+34 Hypothesis for this figure in the batch:  b'soup , is the most preferred .'
+47 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+47 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+43 Image name:  bar_val_hard_00000756.png
+43 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+43 Add input: [[9, 6, 3]] template_IDs [9]
+43 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+43 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+28 Image name:  bar_val_hard_00000756.png
+28 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+28 Add input: [[9, 6, 3]] template_IDs [9]
+28 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+28 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+49 Image name:  bar_val_hard_00000756.png
+49 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+49 Add input: [[9, 6, 3]] template_IDs [9]
+49 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+49 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+26 Image name:  bar_val_hard_00000756.png
+26 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+26 Add input: [[9, 6, 3]] template_IDs [9]
+26 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+26 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+27 Image name:  bar_val_hard_00000756.png
+27 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+27 Add input: [[9, 6, 3]] template_IDs [9]
+27 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+27 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+38 Image name:  bar_val_hard_00000756.png
+38 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+38 Add input: [[9, 6, 3]] template_IDs [9]
+38 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+38 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+13 Image name:  bar_val_hard_00000756.png
+13 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+13 Add input: [[9, 6, 3]] template_IDs [9]
+13 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+13 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'
+--
+36 Image name:  bar_val_hard_00000756.png
+36 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+36 Add input: [[9, 6, 3]] template_IDs [9]
+36 References (all) for this figure in the batch:  ['the object soup is preferred by more people than chaos .']
+36 Hypothesis for this figure in the batch:  b'the object soup is preferred by more people than chaos .'

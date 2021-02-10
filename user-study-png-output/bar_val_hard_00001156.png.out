@@ -1,0 +1,40 @@
+1829 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+1829 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+1077 Image name:  bar_val_hard_00001156.png
+1077 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+1077 Add input: [None] template_IDs [11]
+1077 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+1077 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+584 Image name:  bar_val_hard_00001156.png
+584 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+584 Add input: [None] template_IDs [11]
+584 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+584 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2994 Image name:  bar_val_hard_00001156.png
+2994 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+2994 Add input: [None] template_IDs [11]
+2994 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+2994 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+348 References (all) for this figure in the batch:  ['elder is the label of the first group of bars from the bottom .']
+348 Hypothesis for this figure in the batch:  b'elder is the label of the first group of bars from the bottom .'
+--
+315 Image name:  bar_val_hard_00001156.png
+315 [Groundtruth] [15] prediction tensor([15], device='cuda:0') True
+315 Add input: [[38]] template_IDs [4]
+315 References (all) for this figure in the batch:  ['elder is the label of the first group of bars from the bottom .']
+315 Hypothesis for this figure in the batch:  b'elder is the label of the first group of bars from the bottom .'
+--
+2923 Image name:  bar_val_hard_00001156.png
+2923 [Groundtruth] [15] prediction tensor([15], device='cuda:0') True
+2923 Add input: [[38]] template_IDs [4]
+2923 References (all) for this figure in the batch:  ['elder is the label of the first group of bars from the bottom .']
+2923 Hypothesis for this figure in the batch:  b'elder is the label of the first group of bars from the bottom .'
+--
+2068 Image name:  bar_val_hard_00001156.png
+2068 [Groundtruth] [15] prediction tensor([15], device='cuda:0') True
+2068 Add input: [[38]] template_IDs [4]
+2068 References (all) for this figure in the batch:  ['elder is the label of the first group of bars from the bottom .']
+2068 Hypothesis for this figure in the batch:  b'elder is the label of the first group of bars from the bottom .'

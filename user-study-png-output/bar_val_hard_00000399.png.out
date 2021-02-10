@@ -1,0 +1,250 @@
+1990 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+1990 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+576 Image name:  bar_val_hard_00000399.png
+576 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+576 Add input: [None] template_IDs [11]
+576 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+576 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1877 Image name:  bar_val_hard_00000399.png
+1877 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1877 Add input: [None] template_IDs [11]
+1877 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+1877 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1071 Image name:  bar_val_hard_00000399.png
+1071 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1071 Add input: [None] template_IDs [11]
+1071 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+1071 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1452 Image name:  bar_val_hard_00000399.png
+1452 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1452 Add input: [None] template_IDs [11]
+1452 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+1452 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1818 Image name:  bar_val_hard_00000399.png
+1818 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1818 Add input: [None] template_IDs [11]
+1818 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+1818 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1793 Image name:  bar_val_hard_00000399.png
+1793 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1793 Add input: [None] template_IDs [11]
+1793 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+1793 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+327 Image name:  bar_val_hard_00000399.png
+327 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+327 Add input: [None] template_IDs [11]
+327 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+327 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1299 Image name:  bar_val_hard_00000399.png
+1299 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1299 Add input: [None] template_IDs [11]
+1299 References (all) for this figure in the batch:  ['The chart shows Most preferred objects .']
+1299 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+5 References (all) for this figure in the batch:  ['six bars are there .']
+5 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+7 Image name:  bar_val_hard_00000399.png
+7 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+7 Add input: [None] template_IDs [3]
+7 References (all) for this figure in the batch:  ['six bars are there .']
+7 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+7 Image name:  bar_val_hard_00000399.png
+7 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+7 Add input: [None] template_IDs [3]
+7 References (all) for this figure in the batch:  ['six bars are there .']
+7 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+4 Image name:  bar_val_hard_00000399.png
+4 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+4 Add input: [None] template_IDs [3]
+4 References (all) for this figure in the batch:  ['six bars are there .']
+4 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+6 Image name:  bar_val_hard_00000399.png
+6 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+6 Add input: [None] template_IDs [3]
+6 References (all) for this figure in the batch:  ['six bars are there .']
+6 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+3 Image name:  bar_val_hard_00000399.png
+3 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+3 Add input: [None] template_IDs [3]
+3 References (all) for this figure in the batch:  ['six bars are there .']
+3 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+4 Image name:  bar_val_hard_00000399.png
+4 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+4 Add input: [None] template_IDs [3]
+4 References (all) for this figure in the batch:  ['six bars are there .']
+4 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+3 Image name:  bar_val_hard_00000399.png
+3 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+3 Add input: [None] template_IDs [3]
+3 References (all) for this figure in the batch:  ['six bars are there .']
+3 Hypothesis for this figure in the batch:  b'six bars are there .'
+--
+5 Image name:  bar_val_hard_00000399.png
+5 [Groundtruth] [42] prediction tensor([42], device='cuda:0') True
+5 Add input: [None] template_IDs [3]
+5 References (all) for this figure in the batch:  ['six bars are there .']
+5 Hypothesis for this figure in the batch:  b'six bars are there .'
+32 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+32 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+28 Image name:  bar_val_hard_00000399.png
+28 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+28 Add input: [None] template_IDs [0]
+28 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+28 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+29 Image name:  bar_val_hard_00000399.png
+29 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+29 Add input: [None] template_IDs [0]
+29 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+29 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+33 Image name:  bar_val_hard_00000399.png
+33 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+33 Add input: [None] template_IDs [0]
+33 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+33 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+17 Image name:  bar_val_hard_00000399.png
+17 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+17 Add input: [None] template_IDs [0]
+17 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+17 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+1 Image name:  bar_val_hard_00000399.png
+1 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+1 Add input: [None] template_IDs [0]
+1 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+9 Image name:  bar_val_hard_00000399.png
+9 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+9 Add input: [None] template_IDs [0]
+9 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+9 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+21 Image name:  bar_val_hard_00000399.png
+21 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+21 Add input: [None] template_IDs [0]
+21 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+21 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+48 Image name:  bar_val_hard_00000399.png
+48 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+48 Add input: [None] template_IDs [0]
+48 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+48 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+10 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+10 Hypothesis for this figure in the batch:  b'sheer is the label of the third bar from the left .'
+--
+4 Image name:  bar_val_hard_00000399.png
+4 [Groundtruth] [12] prediction tensor([15], device='cuda:0') False
+4 Add input: [[48]] template_IDs [4]
+4 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+4 Hypothesis for this figure in the batch:  b'tennis is the label of the third bar from the left .'
+--
+25 Image name:  bar_val_hard_00000399.png
+25 [Groundtruth] [12] prediction tensor([13], device='cuda:0') False
+25 Add input: [[48]] template_IDs [4]
+25 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+25 Hypothesis for this figure in the batch:  b'ribbon is the label of the third bar from the left .'
+--
+45 Image name:  bar_val_hard_00000399.png
+45 [Groundtruth] [12] prediction tensor([13], device='cuda:0') False
+45 Add input: [[48]] template_IDs [4]
+45 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+45 Hypothesis for this figure in the batch:  b'ribbon is the label of the third bar from the left .'
+--
+37 Image name:  bar_val_hard_00000399.png
+37 [Groundtruth] [12] prediction tensor([13], device='cuda:0') False
+37 Add input: [[48]] template_IDs [4]
+37 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+37 Hypothesis for this figure in the batch:  b'ribbon is the label of the third bar from the left .'
+--
+32 Image name:  bar_val_hard_00000399.png
+32 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+32 Add input: [[48]] template_IDs [4]
+32 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+32 Hypothesis for this figure in the batch:  b'scar is the label of the third bar from the left .'
+--
+11 Image name:  bar_val_hard_00000399.png
+11 [Groundtruth] [12] prediction tensor([13], device='cuda:0') False
+11 Add input: [[48]] template_IDs [4]
+11 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+11 Hypothesis for this figure in the batch:  b'ribbon is the label of the third bar from the left .'
+--
+40 Image name:  bar_val_hard_00000399.png
+40 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+40 Add input: [[48]] template_IDs [4]
+40 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+40 Hypothesis for this figure in the batch:  b'scar is the label of the third bar from the left .'
+--
+1 Image name:  bar_val_hard_00000399.png
+1 [Groundtruth] [12] prediction tensor([15], device='cuda:0') False
+1 Add input: [[48]] template_IDs [4]
+1 References (all) for this figure in the batch:  ['scar is the label of the third bar from the left .']
+1 Hypothesis for this figure in the batch:  b'tennis is the label of the third bar from the left .'
+38 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+38 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+16 Image name:  bar_val_hard_00000399.png
+16 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+16 Add input: [[12, 15, 3]] template_IDs [9]
+16 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+16 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+45 Image name:  bar_val_hard_00000399.png
+45 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+45 Add input: [[12, 15, 3]] template_IDs [9]
+45 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+45 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+20 Image name:  bar_val_hard_00000399.png
+20 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+20 Add input: [[12, 15, 3]] template_IDs [9]
+20 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+20 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+5 Image name:  bar_val_hard_00000399.png
+5 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+5 Add input: [[12, 15, 3]] template_IDs [9]
+5 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+5 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+42 Image name:  bar_val_hard_00000399.png
+42 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+42 Add input: [[12, 15, 3]] template_IDs [9]
+42 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+42 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+17 Image name:  bar_val_hard_00000399.png
+17 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+17 Add input: [[12, 15, 3]] template_IDs [9]
+17 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+17 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+46 Image name:  bar_val_hard_00000399.png
+46 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+46 Add input: [[12, 15, 3]] template_IDs [9]
+46 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+46 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'
+--
+37 Image name:  bar_val_hard_00000399.png
+37 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+37 Add input: [[12, 15, 3]] template_IDs [9]
+37 References (all) for this figure in the batch:  ['the object scar is preferred by more people than tennis .']
+37 Hypothesis for this figure in the batch:  b'the object scar is preferred by more people than tennis .'

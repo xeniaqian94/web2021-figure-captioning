@@ -1,0 +1,150 @@
+1 References (all) for this figure in the batch:  ['the bars are horizontal .']
+1 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+48 Image name:  bar_val_hard_00005300.png
+48 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+48 Add input: [None] template_IDs [0]
+48 References (all) for this figure in the batch:  ['the bars are horizontal .']
+48 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+13 Image name:  bar_val_hard_00005300.png
+13 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+13 Add input: [None] template_IDs [0]
+13 References (all) for this figure in the batch:  ['the bars are horizontal .']
+13 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+6 Image name:  bar_val_hard_00005300.png
+6 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+6 Add input: [None] template_IDs [0]
+6 References (all) for this figure in the batch:  ['the bars are horizontal .']
+6 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+46 Image name:  bar_val_hard_00005300.png
+46 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+46 Add input: [None] template_IDs [0]
+46 References (all) for this figure in the batch:  ['the bars are horizontal .']
+46 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+45 Image name:  bar_val_hard_00005300.png
+45 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+45 Add input: [None] template_IDs [0]
+45 References (all) for this figure in the batch:  ['the bars are horizontal .']
+45 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+42 Image name:  bar_val_hard_00005300.png
+42 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+42 Add input: [None] template_IDs [0]
+42 References (all) for this figure in the batch:  ['the bars are horizontal .']
+42 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+44 Image name:  bar_val_hard_00005300.png
+44 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+44 Add input: [None] template_IDs [0]
+44 References (all) for this figure in the batch:  ['the bars are horizontal .']
+44 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+41 Image name:  bar_val_hard_00005300.png
+41 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+41 Add input: [None] template_IDs [0]
+41 References (all) for this figure in the batch:  ['the bars are horizontal .']
+41 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+23 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+23 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+9 Image name:  bar_val_hard_00005300.png
+9 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+9 Add input: [[47]] template_IDs [4]
+9 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+9 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+4 Image name:  bar_val_hard_00005300.png
+4 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+4 Add input: [[47]] template_IDs [4]
+4 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+4 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+10 Image name:  bar_val_hard_00005300.png
+10 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+10 Add input: [[47]] template_IDs [4]
+10 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+10 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+26 Image name:  bar_val_hard_00005300.png
+26 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+26 Add input: [[47]] template_IDs [4]
+26 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+26 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+2 Image name:  bar_val_hard_00005300.png
+2 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+2 Add input: [[47]] template_IDs [4]
+2 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+2 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+49 Image name:  bar_val_hard_00005300.png
+49 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+49 Add input: [[47]] template_IDs [4]
+49 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+49 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+25 Image name:  bar_val_hard_00005300.png
+25 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+25 Add input: [[47]] template_IDs [4]
+25 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+25 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+--
+21 Image name:  bar_val_hard_00005300.png
+21 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+21 Add input: [[47]] template_IDs [4]
+21 References (all) for this figure in the batch:  ['slice is the label of the fourth bar from the bottom .']
+21 Hypothesis for this figure in the batch:  b'slice is the label of the fourth bar from the bottom .'
+42 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+42 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+28 Image name:  bar_val_hard_00005300.png
+28 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+28 Add input: [[8, 7, 6]] template_IDs [9]
+28 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+28 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+24 Image name:  bar_val_hard_00005300.png
+24 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+24 Add input: [[8, 7, 6]] template_IDs [9]
+24 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+24 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+16 Image name:  bar_val_hard_00005300.png
+16 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+16 Add input: [[8, 7, 6]] template_IDs [9]
+16 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+16 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+46 Image name:  bar_val_hard_00005300.png
+46 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+46 Add input: [[8, 7, 6]] template_IDs [9]
+46 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+46 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+41 Image name:  bar_val_hard_00005300.png
+41 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+41 Add input: [[8, 7, 6]] template_IDs [9]
+41 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+41 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+26 Image name:  bar_val_hard_00005300.png
+26 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+26 Add input: [[8, 7, 6]] template_IDs [9]
+26 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+26 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+17 Image name:  bar_val_hard_00005300.png
+17 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+17 Add input: [[8, 7, 6]] template_IDs [9]
+17 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+17 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'
+--
+24 Image name:  bar_val_hard_00005300.png
+24 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+24 Add input: [[8, 7, 6]] template_IDs [9]
+24 References (all) for this figure in the batch:  ['the value of slice is smaller than thru .']
+24 Hypothesis for this figure in the batch:  b'the value of slice is smaller than thru .'

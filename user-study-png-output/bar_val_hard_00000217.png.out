@@ -1,0 +1,80 @@
+231 References (all) for this figure in the batch:  ['The chart reports accuracy ( percentage of correct prediction ) of different algorithms .']
+231 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2697 Image name:  bar_val_hard_00000217.png
+2697 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+2697 Add input: [None] template_IDs [11]
+2697 References (all) for this figure in the batch:  ['The chart reports accuracy ( percentage of correct prediction ) of different algorithms .']
+2697 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+406 Image name:  bar_val_hard_00000217.png
+406 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+406 Add input: [None] template_IDs [11]
+406 References (all) for this figure in the batch:  ['The chart reports accuracy ( percentage of correct prediction ) of different algorithms .']
+406 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2984 Image name:  bar_val_hard_00000217.png
+2984 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+2984 Add input: [None] template_IDs [11]
+2984 References (all) for this figure in the batch:  ['The chart reports accuracy ( percentage of correct prediction ) of different algorithms .']
+2984 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+2042 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+2042 This hypothesis matching one of the references?  1
+--
+639 Image name:  bar_val_hard_00000217.png
+639 Add input: [None] template_IDs [0]
+639 References (all) for this figure in the batch:  ['the bars are horizontal .']
+639 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+639 This hypothesis matching one of the references?  1
+--
+1781 Image name:  bar_val_hard_00000217.png
+1781 Add input: [None] template_IDs [0]
+1781 References (all) for this figure in the batch:  ['the bars are horizontal .']
+1781 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+1781 This hypothesis matching one of the references?  1
+--
+1690 Image name:  bar_val_hard_00000217.png
+1690 Add input: [None] template_IDs [0]
+1690 References (all) for this figure in the batch:  ['the bars are horizontal .']
+1690 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+1690 This hypothesis matching one of the references?  1
+1147 References (all) for this figure in the batch:  ['census , has the highest accuracy .']
+1147 Hypothesis for this figure in the batch:  b'census , has the highest accuracy .'
+--
+971 Image name:  bar_val_hard_00000217.png
+971 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+971 Add input: [[2]] template_IDs [6]
+971 References (all) for this figure in the batch:  ['census , has the highest accuracy .']
+971 Hypothesis for this figure in the batch:  b'census , has the highest accuracy .'
+--
+1581 Image name:  bar_val_hard_00000217.png
+1581 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+1581 Add input: [[2]] template_IDs [6]
+1581 References (all) for this figure in the batch:  ['census , has the highest accuracy .']
+1581 Hypothesis for this figure in the batch:  b'census , has the highest accuracy .'
+--
+162 Image name:  bar_val_hard_00000217.png
+162 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+162 Add input: [[2]] template_IDs [6]
+162 References (all) for this figure in the batch:  ['census , has the highest accuracy .']
+162 Hypothesis for this figure in the batch:  b'census , has the highest accuracy .'
+1518 References (all) for this figure in the batch:  ['the accuracy of the algorithm cop is larger than palace .']
+1518 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm cop is larger than palace .'
+--
+838 Image name:  bar_val_hard_00000217.png
+838 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+838 Add input: [[5, 7, 2]] template_IDs [9]
+838 References (all) for this figure in the batch:  ['the accuracy of the algorithm cop is larger than palace .']
+838 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm cop is larger than palace .'
+--
+1446 Image name:  bar_val_hard_00000217.png
+1446 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+1446 Add input: [[5, 7, 2]] template_IDs [9]
+1446 References (all) for this figure in the batch:  ['the accuracy of the algorithm cop is larger than palace .']
+1446 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm cop is larger than palace .'
+--
+270 Image name:  bar_val_hard_00000217.png
+270 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+270 Add input: [[5, 7, 2]] template_IDs [9]
+270 References (all) for this figure in the batch:  ['the accuracy of the algorithm cop is larger than palace .']
+270 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm cop is larger than palace .'

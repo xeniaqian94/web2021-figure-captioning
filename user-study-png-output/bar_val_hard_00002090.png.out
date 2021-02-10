@@ -1,0 +1,100 @@
+2732 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+2732 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1062 Image name:  bar_val_hard_00002090.png
+1062 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+1062 Add input: [None] template_IDs [11]
+1062 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+1062 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+402 Image name:  bar_val_hard_00002090.png
+402 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+402 Add input: [None] template_IDs [11]
+402 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+402 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+2987 Image name:  bar_val_hard_00002090.png
+2987 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+2987 Add input: [None] template_IDs [11]
+2987 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+2987 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+382 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+382 This hypothesis matching one of the references?  1
+--
+1769 Image name:  bar_val_hard_00002090.png
+1769 Add input: [None] template_IDs [0]
+1769 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1769 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1769 This hypothesis matching one of the references?  1
+--
+842 Image name:  bar_val_hard_00002090.png
+842 Add input: [None] template_IDs [0]
+842 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+842 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+842 This hypothesis matching one of the references?  1
+--
+1615 Image name:  bar_val_hard_00002090.png
+1615 Add input: [None] template_IDs [0]
+1615 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1615 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1615 This hypothesis matching one of the references?  1
+2859 References (all) for this figure in the batch:  ['gum is the label of the first bar from the left .']
+2859 Hypothesis for this figure in the batch:  b'gum is the label of the first bar from the left .'
+--
+250 Image name:  bar_val_hard_00002090.png
+250 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+250 Add input: [[38]] template_IDs [4]
+250 References (all) for this figure in the batch:  ['gum is the label of the first bar from the left .']
+250 Hypothesis for this figure in the batch:  b'gum is the label of the first bar from the left .'
+--
+2379 Image name:  bar_val_hard_00002090.png
+2379 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+2379 Add input: [[38]] template_IDs [4]
+2379 References (all) for this figure in the batch:  ['gum is the label of the first bar from the left .']
+2379 Hypothesis for this figure in the batch:  b'gum is the label of the first bar from the left .'
+--
+264 Image name:  bar_val_hard_00002090.png
+264 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+264 Add input: [[38]] template_IDs [4]
+264 References (all) for this figure in the batch:  ['gum is the label of the first bar from the left .']
+264 Hypothesis for this figure in the batch:  b'gum is the label of the first bar from the left .'
+1029 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+1029 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'
+--
+1217 Image name:  bar_val_hard_00002090.png
+1217 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+1217 Add input: [[3]] template_IDs [6]
+1217 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+1217 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'
+--
+17 Image name:  bar_val_hard_00002090.png
+17 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+17 Add input: [[3]] template_IDs [6]
+17 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+17 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'
+--
+1365 Image name:  bar_val_hard_00002090.png
+1365 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+1365 Add input: [[3]] template_IDs [6]
+1365 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+1365 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'
+834 References (all) for this figure in the batch:  ['the object layer is preferred by more people than ivory .']
+834 Hypothesis for this figure in the batch:  b'the object layer is preferred by more people than ivory .'
+--
+1588 Image name:  bar_val_hard_00002090.png
+1588 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+1588 Add input: [[7, 9, 3]] template_IDs [9]
+1588 References (all) for this figure in the batch:  ['the object layer is preferred by more people than ivory .']
+1588 Hypothesis for this figure in the batch:  b'the object layer is preferred by more people than ivory .'
+--
+696 Image name:  bar_val_hard_00002090.png
+696 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+696 Add input: [[7, 9, 3]] template_IDs [9]
+696 References (all) for this figure in the batch:  ['the object layer is preferred by more people than ivory .']
+696 Hypothesis for this figure in the batch:  b'the object layer is preferred by more people than ivory .'
+--
+859 Image name:  bar_val_hard_00002090.png
+859 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+859 Add input: [[7, 9, 3]] template_IDs [9]
+859 References (all) for this figure in the batch:  ['the object layer is preferred by more people than ivory .']
+859 Hypothesis for this figure in the batch:  b'the object layer is preferred by more people than ivory .'

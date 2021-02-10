@@ -1,0 +1,60 @@
+2028 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+2028 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+1202 Image name:  bar_val_hard_00001627.png
+1202 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+1202 Add input: [None] template_IDs [11]
+1202 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+1202 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+2783 Image name:  bar_val_hard_00001627.png
+2783 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2783 Add input: [None] template_IDs [11]
+2783 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+2783 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+--
+2996 Image name:  bar_val_hard_00001627.png
+2996 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2996 Add input: [None] template_IDs [11]
+2996 References (all) for this figure in the batch:  ['The chart lists the most favorable objects .']
+2996 Hypothesis for this figure in the batch:  b'The chart lists the most favorable objects .'
+368 References (all) for this figure in the batch:  ['clue is the label of the seventh bar from the bottom .']
+368 Hypothesis for this figure in the batch:  b'clue is the label of the seventh bar from the bottom .'
+--
+492 Image name:  bar_val_hard_00001627.png
+492 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+492 Add input: [[50]] template_IDs [4]
+492 References (all) for this figure in the batch:  ['clue is the label of the seventh bar from the bottom .']
+492 Hypothesis for this figure in the batch:  b'clue is the label of the seventh bar from the bottom .'
+--
+865 Image name:  bar_val_hard_00001627.png
+865 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+865 Add input: [[50]] template_IDs [4]
+865 References (all) for this figure in the batch:  ['clue is the label of the seventh bar from the bottom .']
+865 Hypothesis for this figure in the batch:  b'clue is the label of the seventh bar from the bottom .'
+--
+848 Image name:  bar_val_hard_00001627.png
+848 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+848 Add input: [[50]] template_IDs [4]
+848 References (all) for this figure in the batch:  ['clue is the label of the seventh bar from the bottom .']
+848 Hypothesis for this figure in the batch:  b'clue is the label of the seventh bar from the bottom .'
+933 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+933 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'
+--
+161 Image name:  bar_val_hard_00001627.png
+161 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+161 Add input: [[3]] template_IDs [6]
+161 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+161 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'
+--
+1511 Image name:  bar_val_hard_00001627.png
+1511 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+1511 Add input: [[3]] template_IDs [6]
+1511 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+1511 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'
+--
+842 Image name:  bar_val_hard_00001627.png
+842 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+842 Add input: [[3]] template_IDs [6]
+842 References (all) for this figure in the batch:  ['brace , is the most preferred .']
+842 Hypothesis for this figure in the batch:  b'brace , is the most preferred .'

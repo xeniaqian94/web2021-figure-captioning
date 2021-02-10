@@ -1,0 +1,80 @@
+1743 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+1743 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+--
+567 Image name:  bar_val_hard_00000567.png
+567 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+567 Add input: [None] template_IDs [11]
+567 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+567 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+--
+2596 Image name:  bar_val_hard_00000567.png
+2596 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+2596 Add input: [None] template_IDs [11]
+2596 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+2596 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+--
+2997 Image name:  bar_val_hard_00000567.png
+2997 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+2997 Add input: [None] template_IDs [11]
+2997 References (all) for this figure in the batch:  ['The chart shows the most favorable objects for each catalogue entry .']
+2997 Hypothesis for this figure in the batch:  b'The chart shows the most favorable objects for each catalogue entry .'
+1593 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1593 This hypothesis matching one of the references?  1
+--
+608 Image name:  bar_val_hard_00000567.png
+608 Add input: [None] template_IDs [0]
+608 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+608 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+608 This hypothesis matching one of the references?  1
+--
+1077 Image name:  bar_val_hard_00000567.png
+1077 Add input: [None] template_IDs [0]
+1077 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1077 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1077 This hypothesis matching one of the references?  1
+--
+1618 Image name:  bar_val_hard_00000567.png
+1618 Add input: [None] template_IDs [0]
+1618 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1618 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1618 This hypothesis matching one of the references?  1
+323 Hypothesis for this figure in the batch:  b'three groups of bars are there .'
+323 This hypothesis matching one of the references?  1
+--
+387 Image name:  bar_val_hard_00000567.png
+387 Add input: [None] template_IDs [3]
+387 References (all) for this figure in the batch:  ['three groups of bars are there .']
+387 Hypothesis for this figure in the batch:  b'three groups of bars are there .'
+387 This hypothesis matching one of the references?  1
+--
+651 Image name:  bar_val_hard_00000567.png
+651 Add input: [None] template_IDs [3]
+651 References (all) for this figure in the batch:  ['three groups of bars are there .']
+651 Hypothesis for this figure in the batch:  b'three groups of bars are there .'
+651 This hypothesis matching one of the references?  1
+--
+42 Image name:  bar_val_hard_00000567.png
+42 Add input: [None] template_IDs [3]
+42 References (all) for this figure in the batch:  ['three groups of bars are there .']
+42 Hypothesis for this figure in the batch:  b'two groups of bars are there .'
+42 This hypothesis matching one of the references?  0
+207 References (all) for this figure in the batch:  ['silk is the label of the third group of bars from the left .']
+207 Hypothesis for this figure in the batch:  b'silk is the label of the third group of bars from the left .'
+--
+1637 Image name:  bar_val_hard_00000567.png
+1637 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+1637 Add input: [[48]] template_IDs [4]
+1637 References (all) for this figure in the batch:  ['silk is the label of the third group of bars from the left .']
+1637 Hypothesis for this figure in the batch:  b'silk is the label of the third group of bars from the left .'
+--
+2287 Image name:  bar_val_hard_00000567.png
+2287 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+2287 Add input: [[48]] template_IDs [4]
+2287 References (all) for this figure in the batch:  ['silk is the label of the third group of bars from the left .']
+2287 Hypothesis for this figure in the batch:  b'silk is the label of the third group of bars from the left .'
+--
+1092 Image name:  bar_val_hard_00000567.png
+1092 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+1092 Add input: [[48]] template_IDs [4]
+1092 References (all) for this figure in the batch:  ['silk is the label of the third group of bars from the left .']
+1092 Hypothesis for this figure in the batch:  b'silk is the label of the third group of bars from the left .'

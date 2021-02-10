@@ -1,0 +1,150 @@
+6 References (all) for this figure in the batch:  ['the bars are horizontal .']
+6 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+46 Image name:  bar_val_hard_00005029.png
+46 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+46 Add input: [None] template_IDs [0]
+46 References (all) for this figure in the batch:  ['the bars are horizontal .']
+46 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+14 Image name:  bar_val_hard_00005029.png
+14 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+14 Add input: [None] template_IDs [0]
+14 References (all) for this figure in the batch:  ['the bars are horizontal .']
+14 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+24 Image name:  bar_val_hard_00005029.png
+24 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+24 Add input: [None] template_IDs [0]
+24 References (all) for this figure in the batch:  ['the bars are horizontal .']
+24 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+40 Image name:  bar_val_hard_00005029.png
+40 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+40 Add input: [None] template_IDs [0]
+40 References (all) for this figure in the batch:  ['the bars are horizontal .']
+40 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+15 Image name:  bar_val_hard_00005029.png
+15 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+15 Add input: [None] template_IDs [0]
+15 References (all) for this figure in the batch:  ['the bars are horizontal .']
+15 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+13 Image name:  bar_val_hard_00005029.png
+13 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+13 Add input: [None] template_IDs [0]
+13 References (all) for this figure in the batch:  ['the bars are horizontal .']
+13 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+19 Image name:  bar_val_hard_00005029.png
+19 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+19 Add input: [None] template_IDs [0]
+19 References (all) for this figure in the batch:  ['the bars are horizontal .']
+19 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+--
+37 Image name:  bar_val_hard_00005029.png
+37 [Groundtruth] [40] prediction tensor([40], device='cuda:0') True
+37 Add input: [None] template_IDs [0]
+37 References (all) for this figure in the batch:  ['the bars are horizontal .']
+37 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+28 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+28 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+12 Image name:  bar_val_hard_00005029.png
+12 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+12 Add input: [[46]] template_IDs [4]
+12 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+12 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+12 Image name:  bar_val_hard_00005029.png
+12 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+12 Add input: [[46]] template_IDs [4]
+12 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+12 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+21 Image name:  bar_val_hard_00005029.png
+21 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+21 Add input: [[46]] template_IDs [4]
+21 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+21 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+30 Image name:  bar_val_hard_00005029.png
+30 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+30 Add input: [[46]] template_IDs [4]
+30 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+30 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+44 Image name:  bar_val_hard_00005029.png
+44 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+44 Add input: [[46]] template_IDs [4]
+44 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+44 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+15 Image name:  bar_val_hard_00005029.png
+15 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+15 Add input: [[46]] template_IDs [4]
+15 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+15 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+8 Image name:  bar_val_hard_00005029.png
+8 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+8 Add input: [[46]] template_IDs [4]
+8 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+8 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+--
+24 Image name:  bar_val_hard_00005029.png
+24 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+24 Add input: [[46]] template_IDs [4]
+24 References (all) for this figure in the batch:  ['cigar is the label of the sixth bar from the bottom .']
+24 Hypothesis for this figure in the batch:  b'cigar is the label of the sixth bar from the bottom .'
+33 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+33 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+41 Image name:  bar_val_hard_00005029.png
+41 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+41 Add input: [[9, 8, 2]] template_IDs [9]
+41 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+41 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+32 Image name:  bar_val_hard_00005029.png
+32 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+32 Add input: [[9, 8, 2]] template_IDs [9]
+32 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+32 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+1 Image name:  bar_val_hard_00005029.png
+1 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+1 Add input: [[9, 8, 2]] template_IDs [9]
+1 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+1 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+23 Image name:  bar_val_hard_00005029.png
+23 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+23 Add input: [[9, 8, 2]] template_IDs [9]
+23 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+23 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+25 Image name:  bar_val_hard_00005029.png
+25 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+25 Add input: [[9, 8, 2]] template_IDs [9]
+25 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+25 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+25 Image name:  bar_val_hard_00005029.png
+25 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+25 Add input: [[9, 8, 2]] template_IDs [9]
+25 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+25 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+29 Image name:  bar_val_hard_00005029.png
+29 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+29 Add input: [[9, 8, 2]] template_IDs [9]
+29 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+29 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'
+--
+18 Image name:  bar_val_hard_00005029.png
+18 [Groundtruth] [56] prediction tensor([56], device='cuda:0') True
+18 Add input: [[9, 8, 2]] template_IDs [9]
+18 References (all) for this figure in the batch:  ['the accuracy of the algorithm clause is smaller than drum .']
+18 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm clause is smaller than drum .'

@@ -1,0 +1,100 @@
+484 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+484 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2566 Image name:  bar_val_hard_00000774.png
+2566 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2566 Add input: [None] template_IDs [11]
+2566 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+2566 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+85 Image name:  bar_val_hard_00000774.png
+85 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+85 Add input: [None] template_IDs [11]
+85 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+85 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2992 Image name:  bar_val_hard_00000774.png
+2992 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2992 Add input: [None] template_IDs [11]
+2992 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+2992 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+1613 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1613 This hypothesis matching one of the references?  1
+--
+462 Image name:  bar_val_hard_00000774.png
+462 Add input: [None] template_IDs [0]
+462 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+462 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+462 This hypothesis matching one of the references?  1
+--
+1927 Image name:  bar_val_hard_00000774.png
+1927 Add input: [None] template_IDs [0]
+1927 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1927 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1927 This hypothesis matching one of the references?  1
+--
+2839 Image name:  bar_val_hard_00000774.png
+2839 Add input: [None] template_IDs [0]
+2839 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+2839 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+2839 This hypothesis matching one of the references?  1
+2136 References (all) for this figure in the batch:  ['nerve is the label of the first bar from the left .']
+2136 Hypothesis for this figure in the batch:  b'nerve is the label of the first bar from the left .'
+--
+976 Image name:  bar_val_hard_00000774.png
+976 [Groundtruth] [18] prediction tensor([18], device='cuda:0') True
+976 Add input: [[38]] template_IDs [4]
+976 References (all) for this figure in the batch:  ['nerve is the label of the first bar from the left .']
+976 Hypothesis for this figure in the batch:  b'nerve is the label of the first bar from the left .'
+--
+1366 Image name:  bar_val_hard_00000774.png
+1366 [Groundtruth] [18] prediction tensor([18], device='cuda:0') True
+1366 Add input: [[38]] template_IDs [4]
+1366 References (all) for this figure in the batch:  ['nerve is the label of the first bar from the left .']
+1366 Hypothesis for this figure in the batch:  b'nerve is the label of the first bar from the left .'
+--
+1652 Image name:  bar_val_hard_00000774.png
+1652 [Groundtruth] [18] prediction tensor([18], device='cuda:0') True
+1652 Add input: [[38]] template_IDs [4]
+1652 References (all) for this figure in the batch:  ['nerve is the label of the first bar from the left .']
+1652 Hypothesis for this figure in the batch:  b'nerve is the label of the first bar from the left .'
+854 References (all) for this figure in the batch:  ['nerve , has the largest value .']
+854 Hypothesis for this figure in the batch:  b'nerve , has the largest value .'
+--
+199 Image name:  bar_val_hard_00000774.png
+199 [Groundtruth] [18] prediction tensor([18], device='cuda:0') True
+199 Add input: [[6]] template_IDs [6]
+199 References (all) for this figure in the batch:  ['nerve , has the largest value .']
+199 Hypothesis for this figure in the batch:  b'nerve , has the largest value .'
+--
+1461 Image name:  bar_val_hard_00000774.png
+1461 [Groundtruth] [18] prediction tensor([17], device='cuda:0') False
+1461 Add input: [[6]] template_IDs [6]
+1461 References (all) for this figure in the batch:  ['nerve , has the largest value .']
+1461 Hypothesis for this figure in the batch:  b'haste , has the largest value .'
+--
+303 Image name:  bar_val_hard_00000774.png
+303 [Groundtruth] [18] prediction tensor([18], device='cuda:0') True
+303 Add input: [[6]] template_IDs [6]
+303 References (all) for this figure in the batch:  ['nerve , has the largest value .']
+303 Hypothesis for this figure in the batch:  b'nerve , has the largest value .'
+1011 References (all) for this figure in the batch:  ['the value of fusion is larger than sector .']
+1011 Hypothesis for this figure in the batch:  b'the value of fusion is larger than sector .'
+--
+1206 Image name:  bar_val_hard_00000774.png
+1206 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+1206 Add input: [[14, 16, 6]] template_IDs [9]
+1206 References (all) for this figure in the batch:  ['the value of fusion is larger than sector .']
+1206 Hypothesis for this figure in the batch:  b'the value of fusion is larger than sector .'
+--
+374 Image name:  bar_val_hard_00000774.png
+374 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+374 Add input: [[14, 16, 6]] template_IDs [9]
+374 References (all) for this figure in the batch:  ['the value of fusion is larger than sector .']
+374 Hypothesis for this figure in the batch:  b'the value of fusion is larger than sector .'
+--
+426 Image name:  bar_val_hard_00000774.png
+426 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+426 Add input: [[14, 16, 6]] template_IDs [9]
+426 References (all) for this figure in the batch:  ['the value of fusion is larger than sector .']
+426 Hypothesis for this figure in the batch:  b'the value of fusion is larger than sector .'

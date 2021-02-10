@@ -1,0 +1,40 @@
+1705 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+1705 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+1294 Image name:  bar_val_hard_00002496.png
+1294 [Groundtruth] [20] prediction tensor([20], device='cuda:0') True
+1294 Add input: [None] template_IDs [11]
+1294 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+1294 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2447 Image name:  bar_val_hard_00002496.png
+2447 [Groundtruth] [20] prediction tensor([20], device='cuda:0') True
+2447 Add input: [None] template_IDs [11]
+2447 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+2447 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2989 Image name:  bar_val_hard_00002496.png
+2989 [Groundtruth] [20] prediction tensor([20], device='cuda:0') True
+2989 Add input: [None] template_IDs [11]
+2989 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+2989 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+97 References (all) for this figure in the batch:  ['suburb is the label of the first group of bars from the bottom .']
+97 Hypothesis for this figure in the batch:  b'suburb is the label of the first group of bars from the bottom .'
+--
+1086 Image name:  bar_val_hard_00002496.png
+1086 [Groundtruth] [22] prediction tensor([22], device='cuda:0') True
+1086 Add input: [[38]] template_IDs [4]
+1086 References (all) for this figure in the batch:  ['suburb is the label of the first group of bars from the bottom .']
+1086 Hypothesis for this figure in the batch:  b'suburb is the label of the first group of bars from the bottom .'
+--
+1757 Image name:  bar_val_hard_00002496.png
+1757 [Groundtruth] [22] prediction tensor([22], device='cuda:0') True
+1757 Add input: [[38]] template_IDs [4]
+1757 References (all) for this figure in the batch:  ['suburb is the label of the first group of bars from the bottom .']
+1757 Hypothesis for this figure in the batch:  b'suburb is the label of the first group of bars from the bottom .'
+--
+73 Image name:  bar_val_hard_00002496.png
+73 [Groundtruth] [22] prediction tensor([22], device='cuda:0') True
+73 Add input: [[38]] template_IDs [4]
+73 References (all) for this figure in the batch:  ['suburb is the label of the first group of bars from the bottom .']
+73 Hypothesis for this figure in the batch:  b'suburb is the label of the first group of bars from the bottom .'

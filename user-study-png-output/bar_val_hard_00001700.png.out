@@ -1,0 +1,80 @@
+925 References (all) for this figure in the batch:  ['The chart compares sales stats among different products .']
+925 Hypothesis for this figure in the batch:  b'The chart compares sales stats among different products .'
+--
+831 Image name:  bar_val_hard_00001700.png
+831 [Groundtruth] [17] prediction tensor([17], device='cuda:0') True
+831 Add input: [None] template_IDs [11]
+831 References (all) for this figure in the batch:  ['The chart compares sales stats among different products .']
+831 Hypothesis for this figure in the batch:  b'The chart compares sales stats among different products .'
+--
+2249 Image name:  bar_val_hard_00001700.png
+2249 [Groundtruth] [17] prediction tensor([17], device='cuda:0') True
+2249 Add input: [None] template_IDs [11]
+2249 References (all) for this figure in the batch:  ['The chart compares sales stats among different products .']
+2249 Hypothesis for this figure in the batch:  b'The chart compares sales stats among different products .'
+--
+2982 Image name:  bar_val_hard_00001700.png
+2982 [Groundtruth] [17] prediction tensor([17], device='cuda:0') True
+2982 Add input: [None] template_IDs [11]
+2982 References (all) for this figure in the batch:  ['The chart compares sales stats among different products .']
+2982 Hypothesis for this figure in the batch:  b'The chart compares sales stats among different products .'
+55 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+55 This hypothesis matching one of the references?  1
+--
+2430 Image name:  bar_val_hard_00001700.png
+2430 Add input: [None] template_IDs [0]
+2430 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+2430 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+2430 This hypothesis matching one of the references?  1
+--
+795 Image name:  bar_val_hard_00001700.png
+795 Add input: [None] template_IDs [0]
+795 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+795 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+795 This hypothesis matching one of the references?  1
+--
+1892 Image name:  bar_val_hard_00001700.png
+1892 Add input: [None] template_IDs [0]
+1892 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+1892 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+1892 This hypothesis matching one of the references?  1
+2510 References (all) for this figure in the batch:  ['doll is the label of the second bar from the left .']
+2510 Hypothesis for this figure in the batch:  b'doll is the label of the second bar from the left .'
+--
+820 Image name:  bar_val_hard_00001700.png
+820 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+820 Add input: [[45]] template_IDs [4]
+820 References (all) for this figure in the batch:  ['doll is the label of the second bar from the left .']
+820 Hypothesis for this figure in the batch:  b'doll is the label of the second bar from the left .'
+--
+2057 Image name:  bar_val_hard_00001700.png
+2057 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+2057 Add input: [[45]] template_IDs [4]
+2057 References (all) for this figure in the batch:  ['doll is the label of the second bar from the left .']
+2057 Hypothesis for this figure in the batch:  b'doll is the label of the second bar from the left .'
+--
+243 Image name:  bar_val_hard_00001700.png
+243 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+243 Add input: [[45]] template_IDs [4]
+243 References (all) for this figure in the batch:  ['doll is the label of the second bar from the left .']
+243 Hypothesis for this figure in the batch:  b'doll is the label of the second bar from the left .'
+527 References (all) for this figure in the batch:  ['pin , sold the most units .']
+527 Hypothesis for this figure in the batch:  b'pin , sold the most units .'
+--
+1269 Image name:  bar_val_hard_00001700.png
+1269 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+1269 Add input: [[4]] template_IDs [6]
+1269 References (all) for this figure in the batch:  ['pin , sold the most units .']
+1269 Hypothesis for this figure in the batch:  b'pin , sold the most units .'
+--
+1400 Image name:  bar_val_hard_00001700.png
+1400 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+1400 Add input: [[4]] template_IDs [6]
+1400 References (all) for this figure in the batch:  ['pin , sold the most units .']
+1400 Hypothesis for this figure in the batch:  b'pin , sold the most units .'
+--
+878 Image name:  bar_val_hard_00001700.png
+878 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+878 Add input: [[4]] template_IDs [6]
+878 References (all) for this figure in the batch:  ['pin , sold the most units .']
+878 Hypothesis for this figure in the batch:  b'pin , sold the most units .'

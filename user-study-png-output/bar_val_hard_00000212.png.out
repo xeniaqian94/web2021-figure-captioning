@@ -1,0 +1,250 @@
+1459 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+1459 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2250 Image name:  bar_val_hard_00000212.png
+2250 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+2250 Add input: [None] template_IDs [11]
+2250 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+2250 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+1157 Image name:  bar_val_hard_00000212.png
+1157 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+1157 Add input: [None] template_IDs [11]
+1157 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+1157 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+198 Image name:  bar_val_hard_00000212.png
+198 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+198 Add input: [None] template_IDs [11]
+198 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+198 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2282 Image name:  bar_val_hard_00000212.png
+2282 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+2282 Add input: [None] template_IDs [11]
+2282 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+2282 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+452 Image name:  bar_val_hard_00000212.png
+452 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+452 Add input: [None] template_IDs [11]
+452 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+452 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+597 Image name:  bar_val_hard_00000212.png
+597 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+597 Add input: [None] template_IDs [11]
+597 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+597 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+834 Image name:  bar_val_hard_00000212.png
+834 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+834 Add input: [None] template_IDs [11]
+834 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+834 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+--
+2255 Image name:  bar_val_hard_00000212.png
+2255 [Groundtruth] [16] prediction tensor([16], device='cuda:0') True
+2255 Add input: [None] template_IDs [11]
+2255 References (all) for this figure in the batch:  ['The chart shows Accuracy of different algorithms .']
+2255 Hypothesis for this figure in the batch:  b'The chart reports accuracy ( percentage of correct prediction ) of different algorithms .'
+25 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+25 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+38 Image name:  bar_val_hard_00000212.png
+38 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+38 Add input: [None] template_IDs [0]
+38 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+38 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+39 Image name:  bar_val_hard_00000212.png
+39 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+39 Add input: [None] template_IDs [0]
+39 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+39 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+25 Image name:  bar_val_hard_00000212.png
+25 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+25 Add input: [None] template_IDs [0]
+25 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+25 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+45 Image name:  bar_val_hard_00000212.png
+45 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+45 Add input: [None] template_IDs [0]
+45 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+45 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+14 Image name:  bar_val_hard_00000212.png
+14 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+14 Add input: [None] template_IDs [0]
+14 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+14 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+8 Image name:  bar_val_hard_00000212.png
+8 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+8 Add input: [None] template_IDs [0]
+8 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+8 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+6 Image name:  bar_val_hard_00000212.png
+6 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+6 Add input: [None] template_IDs [0]
+6 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+6 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+14 Image name:  bar_val_hard_00000212.png
+14 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+14 Add input: [None] template_IDs [0]
+14 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+14 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+41 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+41 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+23 Image name:  bar_val_hard_00000212.png
+23 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+23 Add input: [[47]] template_IDs [4]
+23 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+23 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+38 Image name:  bar_val_hard_00000212.png
+38 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+38 Add input: [[47]] template_IDs [4]
+38 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+38 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+15 Image name:  bar_val_hard_00000212.png
+15 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+15 Add input: [[47]] template_IDs [4]
+15 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+15 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+3 Image name:  bar_val_hard_00000212.png
+3 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+3 Add input: [[47]] template_IDs [4]
+3 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+3 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+19 Image name:  bar_val_hard_00000212.png
+19 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+19 Add input: [[47]] template_IDs [4]
+19 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+19 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+44 Image name:  bar_val_hard_00000212.png
+44 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+44 Add input: [[47]] template_IDs [4]
+44 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+44 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+38 Image name:  bar_val_hard_00000212.png
+38 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+38 Add input: [[47]] template_IDs [4]
+38 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+38 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+--
+45 Image name:  bar_val_hard_00000212.png
+45 [Groundtruth] [8] prediction tensor([8], device='cuda:0') True
+45 Add input: [[47]] template_IDs [4]
+45 References (all) for this figure in the batch:  ['read is the label of the fourth bar from the left .']
+45 Hypothesis for this figure in the batch:  b'read is the label of the fourth bar from the left .'
+34 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+34 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+21 Image name:  bar_val_hard_00000212.png
+21 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+21 Add input: [[2]] template_IDs [6]
+21 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+21 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+3 Image name:  bar_val_hard_00000212.png
+3 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+3 Add input: [[2]] template_IDs [6]
+3 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+3 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+35 Image name:  bar_val_hard_00000212.png
+35 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+35 Add input: [[2]] template_IDs [6]
+35 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+35 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+9 Image name:  bar_val_hard_00000212.png
+9 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+9 Add input: [[2]] template_IDs [6]
+9 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+9 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+31 Image name:  bar_val_hard_00000212.png
+31 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+31 Add input: [[2]] template_IDs [6]
+31 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+31 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+36 Image name:  bar_val_hard_00000212.png
+36 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+36 Add input: [[2]] template_IDs [6]
+36 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+36 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+14 Image name:  bar_val_hard_00000212.png
+14 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+14 Add input: [[2]] template_IDs [6]
+14 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+14 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+--
+28 Image name:  bar_val_hard_00000212.png
+28 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+28 Add input: [[2]] template_IDs [6]
+28 References (all) for this figure in the batch:  ['grease , has the highest accuracy .']
+28 Hypothesis for this figure in the batch:  b'grease , has the highest accuracy .'
+3 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+3 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+49 Image name:  bar_val_hard_00000212.png
+49 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+49 Add input: [[8, 9, 2]] template_IDs [9]
+49 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+49 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+43 Image name:  bar_val_hard_00000212.png
+43 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+43 Add input: [[8, 9, 2]] template_IDs [9]
+43 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+43 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+41 Image name:  bar_val_hard_00000212.png
+41 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+41 Add input: [[8, 9, 2]] template_IDs [9]
+41 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+41 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+18 Image name:  bar_val_hard_00000212.png
+18 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+18 Add input: [[8, 9, 2]] template_IDs [9]
+18 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+18 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+15 Image name:  bar_val_hard_00000212.png
+15 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+15 Add input: [[8, 9, 2]] template_IDs [9]
+15 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+15 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+37 Image name:  bar_val_hard_00000212.png
+37 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+37 Add input: [[8, 9, 2]] template_IDs [9]
+37 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+37 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+3 Image name:  bar_val_hard_00000212.png
+3 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+3 Add input: [[8, 9, 2]] template_IDs [9]
+3 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+3 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'
+--
+7 Image name:  bar_val_hard_00000212.png
+7 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+7 Add input: [[8, 9, 2]] template_IDs [9]
+7 References (all) for this figure in the batch:  ['the accuracy of the algorithm read is larger than streak .']
+7 Hypothesis for this figure in the batch:  b'the accuracy of the algorithm read is larger than streak .'

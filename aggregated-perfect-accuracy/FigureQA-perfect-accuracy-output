@@ -1,0 +1,57 @@
+...$ python processing.py
+FigureQA/slurm-1291728.out
+FigureQA/slurm-1291729.out
+FigureQA/slurm-1291730.out
+FigureQA/slurm-1291731.out
+FigureQA/slurm-1291732.out
+
+For FigureQA
+Current split is  val_loader
+# figures 3000
+Avg # of captions figures 3.946
+# figures that has perfect match 0.9263333333333333
+Current split is  test_easy_eval_loader
+# figures 3000
+Avg # of captions figures 4.329666666666666
+# figures that has perfect match 0.9066666666666666
+Current split is  test_hard_eval_loader
+# figures 2998
+Avg # of captions figures 4.003002001334223
+# figures that has perfect match 0.9112741827885257
+
+Random 10 examples of aggregated captions and match (0/1) -
+Note for DVQA, validation has image name of bar_train_0000XXXX.png, test has image name of bar_val_xxxx_0000XXXX.png
+
+
+662.png {" ['the bars are horizontal bar chart .']": 1, " ['9 bars are there .']": 1, " ['slate is the maximum .']": 1, " ['the bar slate is greater than darkolive .']": 1, " ['the bar darkolive is less than slate .']": 1}
+2820.png {" ['the bars are horizontal bar chart .']": 1, " ['7 bars are there .']": 1, " ['mint is the label of the third bar from the bottom']": 1, " ['darkslate is the maximum .']": 1}
+2718.png {" ['the bars are horizontal bar chart .']": 1, " ['5 bars are there .']": 1, " ['darkgray is the label of the second bar from the bottom']": 0, " ['cadetblue is the maximum .']": 1}
+3235.png {" ['the bars are horizontal bar chart .']": 1, " ['5 bars are there .']": 1, " ['chartreuse is the label of the fifth bar from the bottom']": 1, " ['chartreuse is the maximum .']": 1, " ['the bar darkslate is greater than burlywood .']": 1, " ['the bar burlywood is less than darkslate .']": 1}
+2405.png {" ['the bars are vertical bar chart .']": 1, " ['4 bars are there .']": 1, " ['darkred is the label of the second bar from the left']": 1, " ['the bar royalblue is greater than darkred .']": 1}
+1607.png {" ['the bars are horizontal bar chart .']": 1, " ['5 bars are there .']": 1, " ['the bar cadetblue is greater than lightsalmon .']": 1, " ['the bar lightsalmon is less than cadetblue .']": 1}
+4278.png {" ['the bars are vertical bar chart .']": 1, " ['6 bars are there .']": 1, " ['cyan is the label of the fifth bar from the left']": 1, " ['mediumblue is the maximum .']": 1}
+2277.png {" ['the bars are horizontal bar chart .']": 1, " ['2 bars are there .']": 1, " ['rosybrown is the maximum .']": 1}
+3606.png {" ['the bars are horizontal bar chart .']": 1, " ['10 bars are there .']": 1, " ['webgreen is the label of the second bar from the bottom']": 1, " ['yellow is the label of the fifth bar from the bottom']": 1, " ['webgreen is the maximum .']": 1, " ['the bar darkkhaki is less than webgreen .']": 1}
+2670.png {" ['the bars are vertical bar chart .']": 1, " ['9 bars are there .']": 1, " ['darkgold is the label of the fifth bar from the left']": 1, " ['brown is the maximum .']": 1, " ['the bar darkgreen is less than brown .']": 1}
+
+222.png {" ['the bars are vertical bar chart .']": 1, " ['2 bars are there .']": 1}
+3235.png {" ['the bars are vertical bar chart .']": 1, " ['2 bars are there .']": 1, " ['mediumaqua is the maximum .']": 1, " ['the bar mediumaqua is greater than palegreen .']": 1, " ['the bar palegreen is less than mediumaqua .']": 1}
+6723.png {" ['the bars are vertical bar chart .']": 1, " ['4 bars are there .']": 1, " ['the bar tomato is greater than gold .']": 1}
+5976.png {" ['the bars are horizontal bar chart .']": 1, " ['sienna is the label of the third bar from the bottom']": 1, " ['lawngreen is the maximum .']": 1}
+671.png {" ['the bars are vertical bar chart .']": 1, " ['2 bars are there .']": 1, " ['khaki is the label of the second bar from the left']": 1, " ['khaki is the maximum .']": 1, " ['the bar gold is less than khaki .']": 1}
+5077.png {" ['the bars are vertical bar chart .']": 1, " ['5 bars are there .']": 1, " ['gray is the label of the third bar from the left']": 1, " ['forestgreen is the label of the first bar from the left']": 1, " ['gold is the label of the fourth bar from the left']": 1, " ['brown is the maximum .']": 1, " ['the bar turquoise is greater than forestgreen .']": 1}
+5507.png {" ['the bars are vertical bar chart .']": 1, " ['violetred is the label of the fifth bar from the left']": 1, " ['olive is the label of the first bar from the left']": 1, " ['periwinkle is the label of the third bar from the left']": 1, " ['darkorange is the maximum .']": 1}
+5435.png {" ['the bars are horizontal bar chart .']": 1, " ['3 bars are there .']": 1, " ['skyblue is the maximum .']": 1, " ['the bar dodgerblue is less than skyblue .']": 1}
+7310.png {" ['the bars are horizontal bar chart .']": 1, " ['webpurple is the label of the second bar from the bottom']": 1, " ['webpurple is the maximum .']": 1}
+2609.png {" ['the bars are vertical bar chart .']": 1, " ['9 bars are there .']": 1, " ['blue is the label of the second bar from the left']": 1, " ['violetred is the label of the sixth bar from the left']": 1, " ['gray is the maximum .']": 1, " ['the bar gray is greater than blue .']": 1}
+
+5853.png {" ['the bars are vertical bar chart .']": 1, " ['chartreuse is the maximum .']": 1, " ['the bar darkslate is greater than webgreen .']": 1, " ['the bar webgreen is less than darkslate .']": 1}
+6424.png {" ['the bars are vertical bar chart .']": 1, " ['4 bars are there .']": 1, " ['deepskyblue is the maximum .']": 1, " ['the bar green is greater than chartreuse .']": 1}
+7177.png {" ['the bars are vertical bar chart .']": 1, " ['4 bars are there .']": 1, " ['rosybrown is the label of the fourth bar from the left']": 1, " ['rosybrown is the maximum .']": 1, " ['the bar chocolate is less than teal .']": 1}
+6503.png {" ['the bars are vertical bar chart .']": 1, " ['7 bars are there .']": 1, " ['mediumperiwinkle is the maximum .']": 1, " ['the bar mediumperiwinkle is greater than olivedrab .']": 1, " ['the bar olivedrab is less than mediumperiwinkle .']": 1}
+68.png {" ['the bars are horizontal bar chart .']": 1, " ['greenyellow is the maximum .']": 1}
+7151.png {" ['the bars are vertical bar chart .']": 1, " ['6 bars are there .']": 1, " ['black is the label of the first bar from the left']": 1}
+6707.png {" ['the bars are vertical bar chart .']": 1, " ['yellowgreen is the label of the first bar from the left']": 0, " ['lightcoral is the maximum .']": 1, " ['the bar lawngreen is greater than yellowgreen .']": 1, " ['the bar yellowgreen is less than lawngreen .']": 1}
+5794.png {" ['the bars are vertical bar chart .']": 1, " ['5 bars are there .']": 1, " ['darkslate is the label of the second bar from the left']": 1, " ['indigo is the maximum .']": 1, " ['the bar mediumturquoise is greater than darkslate .']": 1}
+6711.png {" ['the bars are horizontal bar chart .']": 1, " ['7 bars are there .']": 1, " ['darksalmon is the label of the third bar from the bottom']": 1, " ['periwinkle is the label of the first bar from the bottom']": 1, " ['tomato is the maximum .']": 1}
+6523.png {" ['the bars are vertical bar chart .']": 1, " ['3 bars are there .']": 1, " ['darkviolet is the label of the second bar from the left']": 1, " ['mediumperiwinkle is the maximum .']": 1, " ['the bar darkgray is less than darkviolet .']": 1}

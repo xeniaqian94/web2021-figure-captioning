@@ -1,0 +1,60 @@
+2003 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+2003 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+876 Image name:  bar_val_hard_00003407.png
+876 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+876 Add input: [None] template_IDs [11]
+876 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+876 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+1832 Image name:  bar_val_hard_00003407.png
+1832 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+1832 Add input: [None] template_IDs [11]
+1832 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+1832 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+2998 Image name:  bar_val_hard_00003407.png
+2998 [Groundtruth] [10] prediction tensor([10], device='cuda:0') True
+2998 Add input: [None] template_IDs [11]
+2998 References (all) for this figure in the batch:  ['The chart does not have a meaningful title .']
+2998 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+1304 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+1304 This hypothesis matching one of the references?  1
+--
+1778 Image name:  bar_val_hard_00003407.png
+1778 Add input: [None] template_IDs [0]
+1778 References (all) for this figure in the batch:  ['the bars are horizontal .']
+1778 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+1778 This hypothesis matching one of the references?  1
+--
+126 Image name:  bar_val_hard_00003407.png
+126 Add input: [None] template_IDs [0]
+126 References (all) for this figure in the batch:  ['the bars are horizontal .']
+126 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+126 This hypothesis matching one of the references?  1
+--
+2860 Image name:  bar_val_hard_00003407.png
+2860 Add input: [None] template_IDs [0]
+2860 References (all) for this figure in the batch:  ['the bars are horizontal .']
+2860 Hypothesis for this figure in the batch:  b'the bars are horizontal .'
+2860 This hypothesis matching one of the references?  1
+2473 References (all) for this figure in the batch:  ['clover is the label of the third group of bars from the bottom .']
+2473 Hypothesis for this figure in the batch:  b'clover is the label of the third group of bars from the bottom .'
+--
+2037 Image name:  bar_val_hard_00003407.png
+2037 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+2037 Add input: [[48]] template_IDs [4]
+2037 References (all) for this figure in the batch:  ['clover is the label of the third group of bars from the bottom .']
+2037 Hypothesis for this figure in the batch:  b'clover is the label of the third group of bars from the bottom .'
+--
+2709 Image name:  bar_val_hard_00003407.png
+2709 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+2709 Add input: [[48]] template_IDs [4]
+2709 References (all) for this figure in the batch:  ['clover is the label of the third group of bars from the bottom .']
+2709 Hypothesis for this figure in the batch:  b'clover is the label of the third group of bars from the bottom .'
+--
+2723 Image name:  bar_val_hard_00003407.png
+2723 [Groundtruth] [6] prediction tensor([6], device='cuda:0') True
+2723 Add input: [[48]] template_IDs [4]
+2723 References (all) for this figure in the batch:  ['clover is the label of the third group of bars from the bottom .']
+2723 Hypothesis for this figure in the batch:  b'clover is the label of the third group of bars from the bottom .'

@@ -1,0 +1,931 @@
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+6 Add input: [None] template_IDs [11]
+6 References (all) for this figure in the batch:  ['The chart shows Title .']
+6 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+9 Image name:  bar_val_hard_00003965.png
+9 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+9 Add input: [None] template_IDs [11]
+9 References (all) for this figure in the batch:  ['The chart shows Title .']
+9 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1 Add input: [None] template_IDs [11]
+1 References (all) for this figure in the batch:  ['The chart shows Title .']
+1 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+1 [Groundtruth] [43] prediction tensor([34], device='cuda:0') False
+1 Add input: [None] template_IDs [3]
+1 References (all) for this figure in the batch:  ['three bars are there .']
+1 Hypothesis for this figure in the batch:  b'two bars are there .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+7 Add input: [None] template_IDs [3]
+7 References (all) for this figure in the batch:  ['three bars are there .']
+7 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+6 Add input: [None] template_IDs [3]
+6 References (all) for this figure in the batch:  ['three bars are there .']
+6 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+11 Image name:  bar_val_hard_00003965.png
+11 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+11 Add input: [None] template_IDs [3]
+11 References (all) for this figure in the batch:  ['three bars are there .']
+11 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+10 Add input: [None] template_IDs [3]
+10 References (all) for this figure in the batch:  ['three bars are there .']
+10 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+9 Image name:  bar_val_hard_00003965.png
+9 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+9 Add input: [None] template_IDs [3]
+9 References (all) for this figure in the batch:  ['three bars are there .']
+9 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+7 Add input: [None] template_IDs [3]
+7 References (all) for this figure in the batch:  ['three bars are there .']
+7 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 23.05it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+0 Add input: [None] template_IDs [3]
+0 References (all) for this figure in the batch:  ['three bars are there .']
+0 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+4 Image name:  bar_val_hard_00003965.png
+4 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+4 Add input: [None] template_IDs [3]
+4 References (all) for this figure in the batch:  ['three bars are there .']
+4 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+4 Image name:  bar_val_hard_00003965.png
+4 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+4 Add input: [None] template_IDs [3]
+4 References (all) for this figure in the batch:  ['three bars are there .']
+4 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 23.19it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+0 Add input: [None] template_IDs [3]
+0 References (all) for this figure in the batch:  ['three bars are there .']
+0 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+11 Image name:  bar_val_hard_00003965.png
+11 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+11 Add input: [None] template_IDs [3]
+11 References (all) for this figure in the batch:  ['three bars are there .']
+11 Hypothesis for this figure in the batch:  b'three bars are there .'
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+6 Add input: [None] template_IDs [0]
+6 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+6 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+10 Add input: [None] template_IDs [0]
+10 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+10 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+6 Add input: [None] template_IDs [0]
+6 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+6 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+10 Add input: [None] template_IDs [0]
+10 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+10 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 21.53it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+0 Add input: [None] template_IDs [0]
+0 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+0 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 21.48it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+0 Add input: [None] template_IDs [0]
+0 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+0 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+19 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+19 Add input: [[48]] template_IDs [4]
+19 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+19 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+30 Image name:  bar_val_hard_00003965.png
+30 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+30 Add input: [[45]] template_IDs [4]
+30 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+30 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+53 Image name:  bar_val_hard_00003965.png
+53 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+53 Add input: [[38]] template_IDs [4]
+53 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+53 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+10 Add input: [[38]] template_IDs [4]
+10 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+10 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+44 Image name:  bar_val_hard_00003965.png
+44 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+44 Add input: [[48]] template_IDs [4]
+44 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+44 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+59 Image name:  bar_val_hard_00003965.png
+59 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+59 Add input: [[45]] template_IDs [4]
+59 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+59 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+26 Image name:  bar_val_hard_00003965.png
+26 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+26 Add input: [[48]] template_IDs [4]
+26 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+26 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+36 Image name:  bar_val_hard_00003965.png
+36 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+36 Add input: [[38]] template_IDs [4]
+36 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+36 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+56 Image name:  bar_val_hard_00003965.png
+56 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+56 Add input: [[45]] template_IDs [4]
+56 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+56 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+21 Image name:  bar_val_hard_00003965.png
+21 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+21 Add input: [[45]] template_IDs [4]
+21 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+21 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+47 Image name:  bar_val_hard_00003965.png
+47 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+47 Add input: [[48]] template_IDs [4]
+47 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+47 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+53 Image name:  bar_val_hard_00003965.png
+53 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+53 Add input: [[38]] template_IDs [4]
+53 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+53 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+2 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2 Add input: [[6]] template_IDs [6]
+2 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+2 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+7 Add input: [[6]] template_IDs [6]
+7 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+7 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+7 Add input: [[6]] template_IDs [6]
+7 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+7 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+10 Add input: [[6]] template_IDs [6]
+10 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+10 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+10 Add input: [[6]] template_IDs [6]
+10 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+10 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+2 Image name:  bar_val_hard_00003965.png
+2 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2 Add input: [[6]] template_IDs [6]
+2 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+2 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+6 Add input: [[6]] template_IDs [6]
+6 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+6 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+8 Image name:  bar_val_hard_00003965.png
+8 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+8 Add input: [[6]] template_IDs [6]
+8 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+8 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+2 Image name:  bar_val_hard_00003965.png
+2 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2 Add input: [[6]] template_IDs [6]
+2 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+2 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+6 Add input: [[6]] template_IDs [6]
+6 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+6 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+1 Add input: [[6]] template_IDs [6]
+1 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+1 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+1 Add input: [[6]] template_IDs [6]
+1 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+1 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+16 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+16 Add input: [[13, 14, 6]] template_IDs [9]
+16 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+16 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+18 Image name:  bar_val_hard_00003965.png
+18 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+18 Add input: [[12, 14, 6]] template_IDs [9]
+18 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+18 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+36 Image name:  bar_val_hard_00003965.png
+36 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+36 Add input: [[13, 12, 6]] template_IDs [9]
+36 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+36 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+--
+12 Image name:  bar_val_hard_00003965.png
+12 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+12 Add input: [[13, 12, 6]] template_IDs [9]
+12 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+12 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+--
+23 Image name:  bar_val_hard_00003965.png
+23 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+23 Add input: [[12, 14, 6]] template_IDs [9]
+23 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+23 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+32 Image name:  bar_val_hard_00003965.png
+32 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+32 Add input: [[13, 14, 6]] template_IDs [9]
+32 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+32 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+40 Image name:  bar_val_hard_00003965.png
+40 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+40 Add input: [[13, 12, 6]] template_IDs [9]
+40 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+40 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+--
+46 Image name:  bar_val_hard_00003965.png
+46 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+46 Add input: [[12, 14, 6]] template_IDs [9]
+46 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+46 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+47 Image name:  bar_val_hard_00003965.png
+47 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+47 Add input: [[13, 14, 6]] template_IDs [9]
+47 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+47 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+30 Image name:  bar_val_hard_00003965.png
+30 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+30 Add input: [[13, 14, 6]] template_IDs [9]
+30 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+30 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+41 Image name:  bar_val_hard_00003965.png
+41 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+41 Add input: [[12, 14, 6]] template_IDs [9]
+41 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+41 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+43 Image name:  bar_val_hard_00003965.png
+43 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+43 Add input: [[13, 12, 6]] template_IDs [9]
+43 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+43 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+28 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+28 Add input: [[14, 6]] template_IDs [10]
+28 References (all) for this figure in the batch:  ['20 is the value of rug .']
+28 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+31 Image name:  bar_val_hard_00003965.png
+31 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+31 Add input: [[13, 6]] template_IDs [10]
+31 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+31 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+3 Image name:  bar_val_hard_00003965.png
+3 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+3 Add input: [[13, 6]] template_IDs [10]
+3 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+3 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+32 Image name:  bar_val_hard_00003965.png
+32 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+32 Add input: [[14, 6]] template_IDs [10]
+32 References (all) for this figure in the batch:  ['20 is the value of rug .']
+32 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+4 Image name:  bar_val_hard_00003965.png
+4 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+4 Add input: [[13, 6]] template_IDs [10]
+4 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+4 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+5 Image name:  bar_val_hard_00003965.png
+5 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+5 Add input: [[14, 6]] template_IDs [10]
+5 References (all) for this figure in the batch:  ['20 is the value of rug .']
+5 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+21 Image name:  bar_val_hard_00003965.png
+21 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+21 Add input: [[13, 6]] template_IDs [10]
+21 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+21 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+22 Image name:  bar_val_hard_00003965.png
+22 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+22 Add input: [[14, 6]] template_IDs [10]
+22 References (all) for this figure in the batch:  ['20 is the value of rug .']
+22 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+18 Image name:  bar_val_hard_00003965.png
+18 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+18 Add input: [[14, 6]] template_IDs [10]
+18 References (all) for this figure in the batch:  ['20 is the value of rug .']
+18 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+30 Image name:  bar_val_hard_00003965.png
+30 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+30 Add input: [[13, 6]] template_IDs [10]
+30 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+30 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+21 Image name:  bar_val_hard_00003965.png
+21 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+21 Add input: [[13, 6]] template_IDs [10]
+21 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+21 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+30 Image name:  bar_val_hard_00003965.png
+30 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+30 Add input: [[14, 6]] template_IDs [10]
+30 References (all) for this figure in the batch:  ['20 is the value of rug .']
+30 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+6 Add input: [None] template_IDs [11]
+6 References (all) for this figure in the batch:  ['The chart shows Title .']
+6 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+9 Image name:  bar_val_hard_00003965.png
+9 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+9 Add input: [None] template_IDs [11]
+9 References (all) for this figure in the batch:  ['The chart shows Title .']
+9 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [11] prediction tensor([11], device='cuda:0') True
+1 Add input: [None] template_IDs [11]
+1 References (all) for this figure in the batch:  ['The chart shows Title .']
+1 Hypothesis for this figure in the batch:  b'The chart does not have a meaningful title .'
+8 Image name:  bar_val_hard_00003965.png
+8 [Groundtruth] [43] prediction tensor([34], device='cuda:0') False
+8 Add input: [None] template_IDs [3]
+8 References (all) for this figure in the batch:  ['three bars are there .']
+8 Hypothesis for this figure in the batch:  b'two bars are there .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [43] prediction tensor([34], device='cuda:0') False
+1 Add input: [None] template_IDs [3]
+1 References (all) for this figure in the batch:  ['three bars are there .']
+1 Hypothesis for this figure in the batch:  b'two bars are there .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+7 Add input: [None] template_IDs [3]
+7 References (all) for this figure in the batch:  ['three bars are there .']
+7 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+6 Add input: [None] template_IDs [3]
+6 References (all) for this figure in the batch:  ['three bars are there .']
+6 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+11 Image name:  bar_val_hard_00003965.png
+11 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+11 Add input: [None] template_IDs [3]
+11 References (all) for this figure in the batch:  ['three bars are there .']
+11 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+10 Add input: [None] template_IDs [3]
+10 References (all) for this figure in the batch:  ['three bars are there .']
+10 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+9 Image name:  bar_val_hard_00003965.png
+9 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+9 Add input: [None] template_IDs [3]
+9 References (all) for this figure in the batch:  ['three bars are there .']
+9 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+7 Add input: [None] template_IDs [3]
+7 References (all) for this figure in the batch:  ['three bars are there .']
+7 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 23.05it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+0 Add input: [None] template_IDs [3]
+0 References (all) for this figure in the batch:  ['three bars are there .']
+0 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+4 Image name:  bar_val_hard_00003965.png
+4 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+4 Add input: [None] template_IDs [3]
+4 References (all) for this figure in the batch:  ['three bars are there .']
+4 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+4 Image name:  bar_val_hard_00003965.png
+4 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+4 Add input: [None] template_IDs [3]
+4 References (all) for this figure in the batch:  ['three bars are there .']
+4 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 23.19it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+0 Add input: [None] template_IDs [3]
+0 References (all) for this figure in the batch:  ['three bars are there .']
+0 Hypothesis for this figure in the batch:  b'three bars are there .'
+--
+11 Image name:  bar_val_hard_00003965.png
+11 [Groundtruth] [43] prediction tensor([43], device='cuda:0') True
+11 Add input: [None] template_IDs [3]
+11 References (all) for this figure in the batch:  ['three bars are there .']
+11 Hypothesis for this figure in the batch:  b'three bars are there .'
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+6 Add input: [None] template_IDs [0]
+6 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+6 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+10 Add input: [None] template_IDs [0]
+10 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+10 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+6 Add input: [None] template_IDs [0]
+6 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+6 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+10 Add input: [None] template_IDs [0]
+10 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+10 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 21.53it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+0 Add input: [None] template_IDs [0]
+0 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+0 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+--
+EVALUATING AT BEAM SIZE 1: 100%|██████████| 12/12 [00:00<00:00, 21.48it/s]0 Image name:  bar_val_hard_00003965.png
+0 [Groundtruth] [41] prediction tensor([41], device='cuda:0') True
+0 Add input: [None] template_IDs [0]
+0 References (all) for this figure in the batch:  ['the bars are not horizontal .']
+0 Hypothesis for this figure in the batch:  b'the bars are not horizontal .'
+30 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+30 Add input: [[45]] template_IDs [4]
+30 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+30 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+53 Image name:  bar_val_hard_00003965.png
+53 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+53 Add input: [[38]] template_IDs [4]
+53 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+53 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+10 Add input: [[38]] template_IDs [4]
+10 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+10 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+44 Image name:  bar_val_hard_00003965.png
+44 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+44 Add input: [[48]] template_IDs [4]
+44 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+44 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+59 Image name:  bar_val_hard_00003965.png
+59 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+59 Add input: [[45]] template_IDs [4]
+59 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+59 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+26 Image name:  bar_val_hard_00003965.png
+26 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+26 Add input: [[48]] template_IDs [4]
+26 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+26 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+36 Image name:  bar_val_hard_00003965.png
+36 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+36 Add input: [[38]] template_IDs [4]
+36 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+36 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+56 Image name:  bar_val_hard_00003965.png
+56 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+56 Add input: [[45]] template_IDs [4]
+56 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+56 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+21 Image name:  bar_val_hard_00003965.png
+21 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+21 Add input: [[45]] template_IDs [4]
+21 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+21 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+47 Image name:  bar_val_hard_00003965.png
+47 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+47 Add input: [[48]] template_IDs [4]
+47 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+47 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+53 Image name:  bar_val_hard_00003965.png
+53 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+53 Add input: [[38]] template_IDs [4]
+53 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+53 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+1 Add input: [[45]] template_IDs [4]
+1 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+1 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+28 Image name:  bar_val_hard_00003965.png
+28 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+28 Add input: [[48]] template_IDs [4]
+28 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+28 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+--
+31 Image name:  bar_val_hard_00003965.png
+31 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+31 Add input: [[38]] template_IDs [4]
+31 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+31 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+9 Image name:  bar_val_hard_00003965.png
+9 [Groundtruth] [12] prediction tensor([12], device='cuda:0') True
+9 Add input: [[45]] template_IDs [4]
+9 References (all) for this figure in the batch:  ['rent is the label of the second bar from the left .']
+9 Hypothesis for this figure in the batch:  b'rent is the label of the second bar from the left .'
+--
+25 Image name:  bar_val_hard_00003965.png
+25 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+25 Add input: [[38]] template_IDs [4]
+25 References (all) for this figure in the batch:  ['glaze is the label of the first bar from the left .']
+25 Hypothesis for this figure in the batch:  b'glaze is the label of the first bar from the left .'
+--
+40 Image name:  bar_val_hard_00003965.png
+40 [Groundtruth] [14] prediction tensor([14], device='cuda:0') True
+40 Add input: [[48]] template_IDs [4]
+40 References (all) for this figure in the batch:  ['rug is the label of the third bar from the left .']
+40 Hypothesis for this figure in the batch:  b'rug is the label of the third bar from the left .'
+8 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+8 Add input: [[6]] template_IDs [6]
+8 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+8 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+4 Image name:  bar_val_hard_00003965.png
+4 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+4 Add input: [[6]] template_IDs [6]
+4 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+4 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [13] prediction tensor([12], device='cuda:0') False
+7 Add input: [[6]] template_IDs [6]
+7 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+7 Hypothesis for this figure in the batch:  b'rent , has the largest value .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+10 Add input: [[6]] template_IDs [6]
+10 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+10 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+3 Image name:  bar_val_hard_00003965.png
+3 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+3 Add input: [[6]] template_IDs [6]
+3 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+3 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+2 Image name:  bar_val_hard_00003965.png
+2 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2 Add input: [[6]] template_IDs [6]
+2 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+2 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+7 Add input: [[6]] template_IDs [6]
+7 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+7 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+7 Add input: [[6]] template_IDs [6]
+7 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+7 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+10 Add input: [[6]] template_IDs [6]
+10 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+10 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+10 Image name:  bar_val_hard_00003965.png
+10 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+10 Add input: [[6]] template_IDs [6]
+10 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+10 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+2 Image name:  bar_val_hard_00003965.png
+2 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2 Add input: [[6]] template_IDs [6]
+2 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+2 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+6 Add input: [[6]] template_IDs [6]
+6 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+6 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+8 Image name:  bar_val_hard_00003965.png
+8 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+8 Add input: [[6]] template_IDs [6]
+8 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+8 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+2 Image name:  bar_val_hard_00003965.png
+2 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+2 Add input: [[6]] template_IDs [6]
+2 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+2 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+6 Image name:  bar_val_hard_00003965.png
+6 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+6 Add input: [[6]] template_IDs [6]
+6 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+6 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+1 Add input: [[6]] template_IDs [6]
+1 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+1 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+--
+1 Image name:  bar_val_hard_00003965.png
+1 [Groundtruth] [13] prediction tensor([13], device='cuda:0') True
+1 Add input: [[6]] template_IDs [6]
+1 References (all) for this figure in the batch:  ['glaze , has the largest value .']
+1 Hypothesis for this figure in the batch:  b'glaze , has the largest value .'
+21 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+21 Add input: [[12, 14, 6]] template_IDs [9]
+21 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+21 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+29 Image name:  bar_val_hard_00003965.png
+29 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+29 Add input: [[13, 14, 6]] template_IDs [9]
+29 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+29 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+7 Add input: [[12, 14, 6]] template_IDs [9]
+7 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+7 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+9 Image name:  bar_val_hard_00003965.png
+9 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+9 Add input: [[13, 14, 6]] template_IDs [9]
+9 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+9 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+32 Image name:  bar_val_hard_00003965.png
+32 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+32 Add input: [[13, 12, 6]] template_IDs [9]
+32 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+32 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+--
+16 Image name:  bar_val_hard_00003965.png
+16 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+16 Add input: [[13, 14, 6]] template_IDs [9]
+16 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+16 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+18 Image name:  bar_val_hard_00003965.png
+18 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+18 Add input: [[12, 14, 6]] template_IDs [9]
+18 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+18 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+36 Image name:  bar_val_hard_00003965.png
+36 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+36 Add input: [[13, 12, 6]] template_IDs [9]
+36 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+36 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+--
+12 Image name:  bar_val_hard_00003965.png
+12 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+12 Add input: [[13, 12, 6]] template_IDs [9]
+12 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+12 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+--
+23 Image name:  bar_val_hard_00003965.png
+23 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+23 Add input: [[12, 14, 6]] template_IDs [9]
+23 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+23 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+32 Image name:  bar_val_hard_00003965.png
+32 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+32 Add input: [[13, 14, 6]] template_IDs [9]
+32 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+32 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+40 Image name:  bar_val_hard_00003965.png
+40 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+40 Add input: [[13, 12, 6]] template_IDs [9]
+40 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+40 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+--
+46 Image name:  bar_val_hard_00003965.png
+46 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+46 Add input: [[12, 14, 6]] template_IDs [9]
+46 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+46 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+47 Image name:  bar_val_hard_00003965.png
+47 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+47 Add input: [[13, 14, 6]] template_IDs [9]
+47 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+47 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+30 Image name:  bar_val_hard_00003965.png
+30 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+30 Add input: [[13, 14, 6]] template_IDs [9]
+30 References (all) for this figure in the batch:  ['the value of glaze is larger than rug .']
+30 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rug .'
+--
+41 Image name:  bar_val_hard_00003965.png
+41 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+41 Add input: [[12, 14, 6]] template_IDs [9]
+41 References (all) for this figure in the batch:  ['the value of rent is larger than rug .']
+41 Hypothesis for this figure in the batch:  b'the value of rent is larger than rug .'
+--
+43 Image name:  bar_val_hard_00003965.png
+43 [Groundtruth] [55] prediction tensor([55], device='cuda:0') True
+43 Add input: [[13, 12, 6]] template_IDs [9]
+43 References (all) for this figure in the batch:  ['the value of glaze is larger than rent .']
+43 Hypothesis for this figure in the batch:  b'the value of glaze is larger than rent .'
+27 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+27 Add input: [[14, 6]] template_IDs [10]
+27 References (all) for this figure in the batch:  ['20 is the value of rug .']
+27 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+7 Image name:  bar_val_hard_00003965.png
+7 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+7 Add input: [[13, 6]] template_IDs [10]
+7 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+7 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+22 Image name:  bar_val_hard_00003965.png
+22 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+22 Add input: [[14, 6]] template_IDs [10]
+22 References (all) for this figure in the batch:  ['20 is the value of rug .']
+22 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+8 Image name:  bar_val_hard_00003965.png
+8 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+8 Add input: [[14, 6]] template_IDs [10]
+8 References (all) for this figure in the batch:  ['20 is the value of rug .']
+8 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+9 Image name:  bar_val_hard_00003965.png
+9 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+9 Add input: [[13, 6]] template_IDs [10]
+9 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+9 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+28 Image name:  bar_val_hard_00003965.png
+28 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+28 Add input: [[14, 6]] template_IDs [10]
+28 References (all) for this figure in the batch:  ['20 is the value of rug .']
+28 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+31 Image name:  bar_val_hard_00003965.png
+31 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+31 Add input: [[13, 6]] template_IDs [10]
+31 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+31 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+3 Image name:  bar_val_hard_00003965.png
+3 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+3 Add input: [[13, 6]] template_IDs [10]
+3 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+3 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+32 Image name:  bar_val_hard_00003965.png
+32 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+32 Add input: [[14, 6]] template_IDs [10]
+32 References (all) for this figure in the batch:  ['20 is the value of rug .']
+32 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+4 Image name:  bar_val_hard_00003965.png
+4 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+4 Add input: [[13, 6]] template_IDs [10]
+4 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+4 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+5 Image name:  bar_val_hard_00003965.png
+5 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+5 Add input: [[14, 6]] template_IDs [10]
+5 References (all) for this figure in the batch:  ['20 is the value of rug .']
+5 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+21 Image name:  bar_val_hard_00003965.png
+21 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+21 Add input: [[13, 6]] template_IDs [10]
+21 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+21 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+22 Image name:  bar_val_hard_00003965.png
+22 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+22 Add input: [[14, 6]] template_IDs [10]
+22 References (all) for this figure in the batch:  ['20 is the value of rug .']
+22 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+18 Image name:  bar_val_hard_00003965.png
+18 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+18 Add input: [[14, 6]] template_IDs [10]
+18 References (all) for this figure in the batch:  ['20 is the value of rug .']
+18 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
+--
+30 Image name:  bar_val_hard_00003965.png
+30 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+30 Add input: [[13, 6]] template_IDs [10]
+30 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+30 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+21 Image name:  bar_val_hard_00003965.png
+21 [Groundtruth] [9] prediction tensor([9], device='cuda:0') True
+21 Add input: [[13, 6]] template_IDs [10]
+21 References (all) for this figure in the batch:  ['80 is the value of glaze .']
+21 Hypothesis for this figure in the batch:  b'80 is the value of glaze .'
+--
+30 Image name:  bar_val_hard_00003965.png
+30 [Groundtruth] [5] prediction tensor([5], device='cuda:0') True
+30 Add input: [[14, 6]] template_IDs [10]
+30 References (all) for this figure in the batch:  ['20 is the value of rug .']
+30 Hypothesis for this figure in the batch:  b'20 is the value of rug .'
