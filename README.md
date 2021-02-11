@@ -5,17 +5,17 @@ Data and supplementary materials for the Web Conference 2021 paper "Generating A
 ### Table of Contents
 
 <!--ts-->
-   * [Anonymity Note](#Anonymity-note)
-   * [Supplementary Material: Data](#Supplementary-Material-Data)
-   * [Supplementary Material: Model Hyperparameters and Other Design Choices](#Supplementary-Material-Model-Hyperparameters-and-Other-Design-Choices)
-   * [Supplementary Material: Aggregated Perfect Accuracy](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy)
+   * [Data](#Data)
+   * * [Quality validation](https://github.com/xeniaqian94/web2021-figure-captioning/blob/main/quality-validation.xlsx)
+   * [Model Hyperparameters and Other Design Choices](#Model-Hyperparameters-and-Other-Design-Choices)
+   * [Aggregated Perfect Accuracy](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy)
 <!--te-->
 
 ### Anonymity Note
 
 We are using this dedicated anonymous github account. Instead of solutions such as [anonymous.4open.science](anonymous.4open.science) which cannot handle a few files, e.g. `captions.json` is too big to be anonymized (beyond 1MB, Github limit)
 
-### Supplementary Material: Data
+### Data
 
 #### Directory Structure
 
