@@ -6,7 +6,7 @@ Data and supplementary materials for the Web Conference 2021 paper "Generating A
 
 <!--ts-->
    * [Data](#Data)
-   * * [Quality validation](https://github.com/xeniaqian94/web2021-figure-captioning/blob/main/quality-validation.xlsx)
+      * [Quality validation](https://github.com/xeniaqian94/web2021-figure-captioning/blob/main/quality-validation.xlsx)
    * [Model Hyperparameters and Other Design Choices](#Model-Hyperparameters-and-Other-Design-Choices)
    * [Aggregated Perfect Accuracy](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy)
 <!--te-->
