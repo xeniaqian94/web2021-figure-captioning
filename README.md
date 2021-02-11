@@ -74,7 +74,7 @@ To encode figure image, we fine-tune a pre-trained ResNet-50 up to the second la
 
 #### Dyanmic Dictionary and Word Embedding
 The `FigJAM` model uses the same approach as the `DVQA` baseline to construct the dynamic dictionary. This design greatly reduces the dictionary size.
-The dynamic dictionary has XXX slots. It assigns unique IDs to words that appear only in the metadata. 
+The dynamic dictionary has 30 slots. It assigns unique IDs to words that appear only in the metadata. 
 Other words that appear in the captions but not in the metadata constitute the static dictionary. 
 On the `DVQA-cap` dataset, the dynamic and static dictionary of `FigJAM` model have a total size of 93. On the `FigureQA-cap`, the dynamic and static dictionary have a total size of 72.
 Dictionary words are represented by 128-dimensional word embedding. An embedding size of 128 is compatible with the reduced dictionary size due to dynamic dictionary. 
