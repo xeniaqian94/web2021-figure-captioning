@@ -8,7 +8,7 @@ Data and supplementary materials for the Web Conference 2021 paper "Generating A
    * [Anonymity Note](#Anonymity-note)
    * [Supplementary Material: Data](#Supplementary-Material-Data)
    * [Supplementary Material: Model Hyperparameters and Other Design Choices](#Supplementary-Material-Model-Hyperparameters-and-Other-Design-Choices)
-   * [Supplementary Material: Aggregated Perfect Accuracy](https://github.com/anonymous-web2021-sub/data-release/tree/master/aggregated-perfect-accuracy)
+   * [Supplementary Material: Aggregated Perfect Accuracy](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy)
 <!--te-->
 
 ### Anonymity Note
@@ -24,7 +24,7 @@ This directory contains three parts of material.
 - The `test_hard` split of our dataset: converted groundtruth captions from DVQA and FigureQA datasets, for modeling. Due to size limit, we will release the full split (including `train`, `validation`, and `test_easy`) after review and unanonymously. All splits follow the same schema.
 - `quality-validation.xlsx`: a spreadsheet of quality validatio results. Two co-authors did quality validation on a sample of captions from the two `captions.json` files, in two dimensions: accuracy and grammar. The sample covers 20 random captions for each type in each dataset.     
 - `user-study-12-figures.html` (along with the directory of `user-study-png-output`): the 12 figures for the Google form user study.
-- [`aggregated-perfect-accuracy`](https://github.com/anonymous-web2021-sub/data-release/tree/master/aggregated-perfect-accuracy): Perfect accuracy scores as additional results from Table 3 and 5.
+- [`aggregated-perfect-accuracy`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy): Perfect accuracy scores as additional results from Table 3 and 5.
 
 #### `captions.json`
 
