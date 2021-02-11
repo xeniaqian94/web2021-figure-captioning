@@ -2,6 +2,10 @@
 
 Data and supplementary materials for the Web Conference 2021 paper "Generating Accurate Caption Units For Figure Captioning".
 
+### Note (Feb 11, 2021)
+
+On the [data](#Data) side, we are preparing Google links to the full split (including `train`, `validation`, and `test_easy`).
+
 ### Table of Contents
 
 <!--ts-->
@@ -11,9 +15,6 @@ Data and supplementary materials for the Web Conference 2021 paper "Generating A
    * [Aggregated Perfect Accuracy](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy)
 <!--te-->
 
-### Anonymity Note
-
-We are using this dedicated anonymous github account. Instead of solutions such as [anonymous.4open.science](anonymous.4open.science) which cannot handle a few files, e.g. `captions.json` is too big to be anonymized (beyond 1MB, Github limit)
 
 ### Data
 
@@ -21,7 +22,7 @@ We are using this dedicated anonymous github account. Instead of solutions such 
 
 This directory contains three parts of material.
 
-- The `test_hard` split of our dataset: converted groundtruth captions from DVQA and FigureQA datasets, for modeling. Due to size limit, we will release the full split (including `train`, `validation`, and `test_easy`) after review and unanonymously. All splits follow the same schema.
+- The `test_hard` split of our dataset: converted groundtruth captions from DVQA and FigureQA datasets, for modeling. Due to size limit, we provide Google link to  the full split (including `train`, `validation`, and `test_easy`). All splits follow the same schema.
 - `quality-validation.xlsx`: a spreadsheet of quality validatio results. Two co-authors did quality validation on a sample of captions from the two `captions.json` files, in two dimensions: accuracy and grammar. The sample covers 20 random captions for each type in each dataset.     
 - `user-study-12-figures.html` (along with the directory of `user-study-png-output`): the 12 figures for the Google form user study.
 - [`aggregated-perfect-accuracy`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy): Perfect accuracy scores as additional results from Table 3 and 5.
@@ -87,7 +88,7 @@ We use the Adam optimizer with a learning rate of 1e-3 and cross-entropy losse. 
 Networks were trained using NVIDIA Titan X graphics card, for 50,000 batches with a batch size of 8.
 
 ### Contacts
-Thanks for your review attention.
+Please direct questions to Xin Qian ([xinq@umd.edu](mailto:xinq@umd.edu)).
 
 
 
