@@ -12,6 +12,12 @@ We re-ran experiments in Table 4 and 6, collected model output, and calculated p
 |   DVQA-cap   |  test_hard |   4,605   |           2.374           |       0.939      |
  
 
+## Caption Unit Output
+In the paper, we report metrics from slurm server output. 
+Each file in [`FigureQA/`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/FigureQA) and [`DVQA/`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/DVQA) correspond to one caption unit type. DVQA has six and Figure QA has five. We trunked results of early epoch to fit 50MB Github file limit.  
+
+The server logs of model output are mostly larger than 50MB. To fit the limit, we compress by trunking results of early epoch. 
+
 ## Sanity Check
 
 The results are largely consistent with Table 2, 3 and 5. 
@@ -26,9 +32,7 @@ For DVQA-cap, the total number of figures is 5,000. This includes the Title type
 
 The script will output stats and aggregated captions for 10 random examples.
 
-Please see [FigureQA-perfect-accuracy-output](https://github.com/anonymous-web2021-sub/data-release/blob/master/aggregated-perfect-accuracy/FigureQA-perfect-accuracy-output) and [DVQA-perfect-accuracy-output](https://github.com/anonymous-web2021-sub/data-release/blob/master/aggregated-perfect-accuracy/DVQA-perfect-accuracy-output).
-
-The server logs of model output are mostly larger than 50MB, we compress at the best effort in [`FigureQA/`](https://github.com/anonymous-web2021-sub/data-release/tree/master/aggregated-perfect-accuracy/FigureQA) and [`DVQA/`](https://github.com/anonymous-web2021-sub/data-release/tree/master/aggregated-perfect-accuracy/DVQA) directories. 
+Please see [FigureQA-perfect-accuracy-output](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/FigureQA-perfect-accuracy-output) and [DVQA-perfect-accuracy-output](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/DVQA-perfect-accuracy-output).
 
 
 ## Script
