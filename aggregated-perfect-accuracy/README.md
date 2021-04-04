@@ -14,9 +14,7 @@ We re-ran experiments in Table 4 and 6, collected model output, and calculated p
 
 ## Caption Unit Output
 In the paper, we report metrics from slurm server output. 
-Each file in [`FigureQA/`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/FigureQA) and [`DVQA/`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/DVQA) correspond to one caption unit type. DVQA has six and Figure QA has five. We trunked results of early epoch to fit 50MB Github file limit.  
-
-The server logs of model output are mostly larger than 50MB. To fit the limit, we compress by trunking results of early epoch. 
+Each file in [`FigureQA/`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/FigureQA) and [`DVQA/`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy/DVQA) correspond to the slurm output of one caption unit type. DVQA has six and Figure QA has five. We trunked results of early epoch to fit 50MB Github file limit.  
 
 ## Sanity Check
 
