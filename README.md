@@ -15,6 +15,8 @@ In our view, figure captioning is a visionary problem. Our work on this line is 
       * [Quality validation](https://github.com/xeniaqian94/web2021-figure-captioning/blob/main/quality-validation.xlsx)
    * [Model Hyperparameters and Other Design Choices](model-choices.md)
    * [Aggregated Perfect Accuracy](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy)
+   * [Intellectual Property Note](#intellectual-property-note)
+   * [Contacts](#contacts)
 <!--te-->
 
 
