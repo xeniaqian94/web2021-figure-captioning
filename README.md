@@ -2,9 +2,11 @@
 
 Data and supplementary materials for the Web Conference 2021 paper "Generating Accurate Caption Units For Figure Captioning".
 
-### Camera Ready 
+### Some Caveats 
 
-While the paper is to appear in [dl.acm.org](https://dl.acm.org/), the final camera ready version is available [here](https://terpconnect.umd.edu/~xinq/Figure_captioning_WWW21.pdf). 
+While the paper expects to appear in [dl.acm.org](https://dl.acm.org/), currently the final camera ready version is available [here](https://terpconnect.umd.edu/~xinq/Figure_captioning_WWW21.pdf). 
+
+In our view, figure captioning is a visionary problem. Our work on this line is a proof-of-concept of ML capability, based on synthetic figure question answering data availability. 
 
 ### Table of Contents
 
