@@ -26,16 +26,16 @@ In our view, figure captioning is a visionary problem. Our work on this line is 
 
 This directory contains three parts of material.
 
-- Dataset: converted groundtruth captions from DVQA and FigureQA datasets, for modeling. It includes the full split `train`, `val`, `test_easy` and `test_hard`. Due to size limit, we provide Google drive link to the `train` split. All splits follow the same schema below.
+- Dataset (`DVQA-cap` and `FigureQA-cap`): groundtruth captions for modeling. Converted from `DVQA` and `FigureQA` datasets. Includes the full split `train`, `val`, `test_easy` and `test_hard`. Due to size limit, we provide Google drive link to the `train` split. All splits follow the same schema below.
 - `quality-validation.xlsx`: a spreadsheet of quality validatio results. Two co-authors did quality validation on a sample of captions from the `test_hard` split of `captions.json` files, in two dimensions: accuracy and grammar. The sample covers 20 random captions for each type in each dataset.     
 - `user-study-12-figures.html` (along with the directory of `user-study-png-output`): the 12 figures for the Google form user study.
-- [`aggregated-perfect-accuracy`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy): Perfect accuracy scores as additional results from Table 3 and 5.
+- [`aggregated-perfect-accuracy`](https://github.com/xeniaqian94/web2021-figure-captioning/tree/main/aggregated-perfect-accuracy): Calculation of perfect accuracy scores as additional results from Table 3 and 5.
 
 #### `captions.json`
 
 In each split subdirectory, the file `captions.json` contains groundtruth captions and figure metadata that follow our problem formulation, for modeling.
 
-We suggest readers to download figure images from the original repository of [DVQA](https://github.com/kushalkafle/DVQA_dataset) and [FigureQA](https://github.com/Maluuba/FigureQA) dataset. Figure names are consistent.
+Please download figure images from the original repository of [DVQA](https://github.com/kushalkafle/DVQA_dataset) and [FigureQA](https://github.com/Maluuba/FigureQA) dataset, for figure consistency. 
 
 ##### An example caption tuple 
 <img src="Example-caption.png" width="500">
